@@ -1,1 +1,24 @@
-{"tickers":["AAPL","NVDA","MSFT"],"source":"tv_screener","total":3,"updated_at":"2026-03-10T10:40:00Z"}
+{
+  "tickers": [
+    "MNDY",
+    "TEAM",
+    "IT",
+    "INSP",
+    "GLOB",
+    "DUOL",
+    "GSHD",
+    "HUBS",
+    "MOH",
+    "MSTR",
+    "SPSC",
+    "LULU",
+    "WIX",
+    "CRVL",
+    "FDS",
+    "ARE",
+    "FOUR"
+  ],
+  "source": "tv_screener",
+  "total": 17,
+  "updated_at": "2026-03-10T10:55:04.440Z"
+}
