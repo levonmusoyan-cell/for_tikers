@@ -1,10 +1,8 @@
 {
   "tickers": [
-    "MNDY",
     "INSP",
     "IT",
     "TEAM",
-    "GLOB",
     "GSHD",
     "MOH",
     "HUBS",
@@ -27,6 +25,10 @@
     "KMX",
     "ICLR",
     "ESTC",
+    "JJSF",
+    "TRI",
+    "CHTR",
+    "PAYC",
     "ACN",
     "PCTY",
     "TYL",
@@ -40,22 +42,6 @@
     "MORN",
     "ROCK",
     "AJG",
-    "COLM",
-    "SLVM",
-    "LBRDK",
-    "LBRDA",
-    "PYPL",
-    "CHE",
-    "KMB",
-    "VRSK",
-    "CHH",
-    "BAH",
-    "ENPH",
-    "FICO",
-    "CHKP",
-    "SE",
-    "EMN",
-    "BMI",
     "AMWD",
     "ARES",
     "ASGN",
@@ -88,6 +74,6 @@
     "DUOL"
   ],
   "source": "tv_screener",
-  "total": 86,
-  "updated_at": "2026-03-12T06:35:53.192Z"
+  "total": 72,
+  "updated_at": "2026-03-12T06:41:15.366Z"
 }
