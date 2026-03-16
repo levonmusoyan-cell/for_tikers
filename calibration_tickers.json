@@ -24,7 +24,6 @@
     "QTWO",
     "CRM",
     "NOW",
-    "FISV",
     "FDS",
     "ICLR",
     "BFAM",
@@ -38,12 +37,10 @@
     "BRO",
     "AJG",
     "MOH",
-    "BLLN",
     "CHE",
     "KMX",
     "SFM",
     "SE",
-    "CABO",
     "CHTR",
     "LBRDK",
     "LBRDA",
@@ -91,6 +88,6 @@
     "DUOL"
   ],
   "source": "tv_screener",
-  "total": 89,
-  "updated_at": "2026-03-16T06:48:32.372Z"
+  "total": 86,
+  "updated_at": "2026-03-16T07:23:21.663Z"
 }
