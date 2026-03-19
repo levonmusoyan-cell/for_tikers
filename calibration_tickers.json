@@ -28,7 +28,6 @@
     "NOW",
     "OKTA",
     "CRM",
-    "FISV",
     "FDS",
     "ICLR",
     "BFAM",
@@ -46,13 +45,10 @@
     "KMX",
     "SFM",
     "SE",
-    "CABO",
     "CHTR",
     "MOH",
-    "BLLN",
     "LBRDK",
     "LBRDA",
-    "MKC.V",
     "COLM",
     "INSP",
     "ENPH",
@@ -99,6 +95,6 @@
     "CHE"
   ],
   "source": "tv_screener",
-  "total": 97,
-  "updated_at": "2026-03-19T05:52:41.612Z"
+  "total": 93,
+  "updated_at": "2026-03-19T07:42:11.597Z"
 }
