@@ -28,6 +28,7 @@
     "WK",
     "OKTA",
     "VRSK",
+    "FISV",
     "FDS",
     "ICLR",
     "MORN",
@@ -45,12 +46,15 @@
     "SE",
     "INSP",
     "BSX",
+    "CABO",
     "CHTR",
     "MOH",
+    "BLLN",
     "LBRDK",
     "LBRDA",
     "AIN",
     "OC",
+    "MKC.V",
     "BCC",
     "LGIH",
     "MMYT",
@@ -96,6 +100,6 @@
     "TGLS"
   ],
   "source": "tv_screener",
-  "total": 94,
-  "updated_at": "2026-03-21T08:04:57.801Z"
+  "total": 98,
+  "updated_at": "2026-03-21T13:44:21.201Z"
 }
