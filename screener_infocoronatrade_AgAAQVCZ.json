@@ -1,0 +1,276 @@
+{
+  "version": 1,
+  "username": "infocoronatrade",
+  "screenerId": "AgAAQVCZ",
+  "screenerName": "ДЛЯ МОНИТОРИНГА",
+  "savedAt": "2026-03-27T08:25:12.592Z",
+  "filters": {
+    "columns": [
+      "ticker-view",
+      "close",
+      "type",
+      "typespecs",
+      "pricescale",
+      "minmov",
+      "fractional",
+      "minmove2",
+      "currency",
+      "change",
+      "Perf.W",
+      "Perf.1M",
+      "Perf.3M",
+      "Perf.6M",
+      "Perf.YTD",
+      "Perf.Y",
+      "Perf.5Y",
+      "Perf.10Y",
+      "Perf.All",
+      "Volatility.W",
+      "Volatility.M"
+    ],
+    "filter": [
+      {
+        "left": "is_blacklisted",
+        "operation": "equal",
+        "right": false
+      },
+      {
+        "left": "close",
+        "operation": "egreater",
+        "right": 40
+      },
+      {
+        "left": "change|1M",
+        "operation": "less",
+        "right": 40
+      },
+      {
+        "left": "market_cap_basic",
+        "operation": "in_range",
+        "right": [
+          500000000,
+          200000000000
+        ]
+      },
+      {
+        "left": "sector",
+        "operation": "in_range",
+        "right": [
+          "Commercial Services",
+          "Communications",
+          "Consumer Durables",
+          "Consumer Non-Durables",
+          "Consumer Services",
+          "Distribution Services",
+          "Electronic Technology",
+          "Energy Minerals",
+          "Finance",
+          "Government",
+          "Health Services",
+          "Health Technology",
+          "Industrial Services",
+          "Miscellaneous",
+          "Non-Energy Minerals",
+          "Process Industries",
+          "Producer Manufacturing",
+          "Retail Trade",
+          "Technology Services",
+          "Transportation",
+          "Utilities"
+        ]
+      },
+      {
+        "left": "volume|1M",
+        "operation": "greater",
+        "right": 50
+      }
+    ],
+    "ignore_unknown_fields": false,
+    "options": {
+      "lang": "en"
+    },
+    "range": [
+      0,
+      100
+    ],
+    "sort": {
+      "sortBy": "Perf.Y",
+      "sortOrder": "asc"
+    },
+    "symbols": {
+      "symbolset": [
+        "SYML:SP;SPX",
+        "SYML:NASDAQ;NDX",
+        "SYML:DJ;DJI",
+        "SYML:NASDAQ;IXIC",
+        "SYML:TVC;RUT",
+        "SYML:DJ;DJT",
+        "SYML:NASDAQ;SOX",
+        "SYML:NASDAQ;XAU",
+        "SYML:NASDAQ;HGX",
+        "SYML:NASDAQ;OSX",
+        "SYML:NASDAQ;UTY",
+        "SYML:SP;SPN",
+        "SYML:SP;S5INFT",
+        "SYML:SP;S5HLTH",
+        "SYML:SP;S5CONS",
+        "SYML:SP;S5UTIL",
+        "SYML:SP;S5TELS",
+        "SYML:SP;S5COND",
+        "SYML:SP;S5INDU",
+        "SYML:SP;S5REAS",
+        "SYML:SP;S5MATR",
+        "SYML:SP;SPF",
+        "SYML:CBOE;SPESG",
+        "SYML:NASDAQ;NQUSLG",
+        "SYML:NASDAQ;NQUSMG",
+        "SYML:NASDAQ;NQUSSG",
+        "SYML:NASDAQ;BANK",
+        "SYML:NASDAQ;NBI",
+        "SYML:NASDAQ;TRAN",
+        "SYML:NASDAQ;IXCO",
+        "SYML:NASDAQ;IXTC",
+        "SYML:NASDAQ;INSR",
+        "SYML:NASDAQ;INDS",
+        "SYML:NASDAQ;OFIN",
+        "SYML:NASDAQ;NQUSB451020",
+        "SYML:NASDAQ;CELS",
+        "SYML:NASDAQ;NDXT",
+        "SYML:NASDAQ;HXC",
+        "SYML:NASDAQ;NCX",
+        "SYML:NASDAQ;KFTX",
+        "SYML:NASDAQ;BKX",
+        "SYML:NASDAQ;CPQ",
+        "SYML:NASDAQ;NYMETA",
+        "SYML:SP;MID",
+        "SYML:SP;OEX",
+        "SYML:TVC;RUA",
+        "SYML:DJ;DJU",
+        "SYML:DJ;DJA",
+        "SYML:TVC;RUI",
+        "SYML:CBOEFTSE;MRUT",
+        "SYML:STOXX;SXW1E",
+        "SYML:STOXX;SXA1E",
+        "SYML:STOXX;EDE15BP",
+        "SYML:STOXX;SX50UL",
+        "SYML:STOXX;SXW9E",
+        "SYML:STOXX;SXW8E",
+        "SYML:STOXX;SX150P",
+        "SYML:STOXX;SX5AP",
+        "SYML:STOXX;SXAMBCP",
+        "SYML:STOXX;SXGBCP",
+        "SYML:STOXX;EDD15P",
+        "SYML:STOXX;EDD24BP",
+        "SYML:STOXX;SX50UP"
+      ]
+    },
+    "markets": [
+      "america"
+    ],
+    "filter2": {
+      "operator": "and",
+      "operands": [
+        {
+          "operation": {
+            "operator": "or",
+            "operands": [
+              {
+                "operation": {
+                  "operator": "and",
+                  "operands": [
+                    {
+                      "expression": {
+                        "left": "type",
+                        "operation": "equal",
+                        "right": "stock"
+                      }
+                    },
+                    {
+                      "expression": {
+                        "left": "typespecs",
+                        "operation": "has",
+                        "right": [
+                          "common"
+                        ]
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "operation": {
+                  "operator": "and",
+                  "operands": [
+                    {
+                      "expression": {
+                        "left": "type",
+                        "operation": "equal",
+                        "right": "stock"
+                      }
+                    },
+                    {
+                      "expression": {
+                        "left": "typespecs",
+                        "operation": "has",
+                        "right": [
+                          "preferred"
+                        ]
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "operation": {
+                  "operator": "and",
+                  "operands": [
+                    {
+                      "expression": {
+                        "left": "type",
+                        "operation": "equal",
+                        "right": "dr"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "operation": {
+                  "operator": "and",
+                  "operands": [
+                    {
+                      "expression": {
+                        "left": "type",
+                        "operation": "equal",
+                        "right": "fund"
+                      }
+                    },
+                    {
+                      "expression": {
+                        "left": "typespecs",
+                        "operation": "has_none_of",
+                        "right": [
+                          "etf"
+                        ]
+                      }
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        {
+          "expression": {
+            "left": "typespecs",
+            "operation": "has_none_of",
+            "right": [
+              "pre-ipo"
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "updatedAt": "2026-03-27T08:25:12.592Z"
+}
