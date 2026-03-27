@@ -2,126 +2,27 @@
   "version": 1,
   "username": "infocoronatrade",
   "screenerId": "AgAAQVCZ",
-  "savedAt": "2026-03-27T07:02:11.739Z",
+  "screenerName": "ДЛЯ МОНИТОРИНГА",
+  "savedAt": "2026-03-27T07:06:45.119Z",
   "filters": {
     "columns": [
-      "country",
-      "cfi_code",
-      "top_revenue_country_code",
-      "exchange",
-      "industry",
-      "sector",
-      "index_id",
-      "submarket",
-      "currency_id"
+      "yield_to_maturity",
+      "maturity_date"
     ],
-    "markets": [
-      "america"
+    "ignore_unknown_fields": false,
+    "range": [
+      0,
+      3
     ],
-    "filter2": {
-      "operator": "and",
-      "operands": [
-        {
-          "operation": {
-            "operator": "or",
-            "operands": [
-              {
-                "operation": {
-                  "operator": "and",
-                  "operands": [
-                    {
-                      "expression": {
-                        "left": "type",
-                        "operation": "equal",
-                        "right": "stock"
-                      }
-                    },
-                    {
-                      "expression": {
-                        "left": "typespecs",
-                        "operation": "has",
-                        "right": [
-                          "common"
-                        ]
-                      }
-                    }
-                  ]
-                }
-              },
-              {
-                "operation": {
-                  "operator": "and",
-                  "operands": [
-                    {
-                      "expression": {
-                        "left": "type",
-                        "operation": "equal",
-                        "right": "stock"
-                      }
-                    },
-                    {
-                      "expression": {
-                        "left": "typespecs",
-                        "operation": "has",
-                        "right": [
-                          "preferred"
-                        ]
-                      }
-                    }
-                  ]
-                }
-              },
-              {
-                "operation": {
-                  "operator": "and",
-                  "operands": [
-                    {
-                      "expression": {
-                        "left": "type",
-                        "operation": "equal",
-                        "right": "dr"
-                      }
-                    }
-                  ]
-                }
-              },
-              {
-                "operation": {
-                  "operator": "and",
-                  "operands": [
-                    {
-                      "expression": {
-                        "left": "type",
-                        "operation": "equal",
-                        "right": "fund"
-                      }
-                    },
-                    {
-                      "expression": {
-                        "left": "typespecs",
-                        "operation": "has_none_of",
-                        "right": [
-                          "etf"
-                        ]
-                      }
-                    }
-                  ]
-                }
-              }
-            ]
-          }
-        },
-        {
-          "expression": {
-            "left": "typespecs",
-            "operation": "has_none_of",
-            "right": [
-              "pre-ipo"
-            ]
-          }
-        }
-      ]
-    }
+    "index_filters": [
+      {
+        "name": "bond_issuer_cr_parent_stock_symbol",
+        "values": [
+          "NASDAQ:AAPL"
+        ]
+      }
+    ],
+    "preset": "stocks_related_bonds"
   },
-  "updatedAt": "2026-03-27T07:02:11.739Z"
+  "updatedAt": "2026-03-27T07:06:45.119Z"
 }
