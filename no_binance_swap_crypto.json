@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-29T16:13:31.349Z",
+  "updatedAt": "2026-03-30T12:36:09.334Z",
   "tickers": {
     "KCS": {
       "checkedAt": "2026-03-19",
@@ -952,6 +952,10 @@
     },
     "HUMA": {
       "checkedAt": "2026-03-29",
+      "reason": "not_on_binance"
+    },
+    "DOKY": {
+      "checkedAt": "2026-03-30",
       "reason": "not_on_binance"
     }
   }
