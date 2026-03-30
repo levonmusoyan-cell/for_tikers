@@ -1,5 +1,10 @@
 {
   "tickers": [
+    "SPSC",
+    "WK",
+    "TTAN",
+    "MNDY",
+    "DSGX",
     "GDDY",
     "QLYS",
     "WIX",
@@ -17,12 +22,21 @@
     "HUBS",
     "ROP",
     "INTU",
-    "LRN",
+    "EEFT",
+    "GPN",
     "FDS",
     "FICO",
-    "SFM",
+    "PBH",
+    "BSX",
     "ZTS",
+    "FRPT",
+    "CRVL",
     "KNSL",
+    "WGS",
+    "LRN",
+    "AIN",
+    "LBRDK",
+    "SFM",
     "WSO",
     "ADBE",
     "AJG",
@@ -99,6 +113,6 @@
     "TGLS"
   ],
   "source": "tv_screener",
-  "total": 97,
-  "updated_at": "2026-03-30T08:55:42.402Z"
+  "total": 111,
+  "updated_at": "2026-03-30T09:58:10.970Z"
 }
