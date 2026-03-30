@@ -1,23 +1,5 @@
 {
   "tickers": [
-    "WSO",
-    "SLVM",
-    "Z",
-    "WD",
-    "QTWO",
-    "DOCU",
-    "RBRK",
-    "ARE",
-    "BROS",
-    "FIS",
-    "AIN",
-    "LBRDK",
-    "CRVL",
-    "SPSC",
-    "FRPT",
-    "WGS",
-    "WK",
-    "PBH",
     "TTAN",
     "EEFT",
     "GPN",
@@ -45,6 +27,7 @@
     "HUBS",
     "KNSL",
     "ROP",
+    "WSO",
     "INTU",
     "FICO",
     "ADBE",
@@ -122,6 +105,6 @@
     "TGLS"
   ],
   "source": "tv_screener",
-  "total": 120,
-  "updated_at": "2026-03-30T08:09:59.568Z"
+  "total": 103,
+  "updated_at": "2026-03-30T08:21:31.248Z"
 }
