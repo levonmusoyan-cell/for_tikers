@@ -3,7 +3,7 @@
   "username": "infocoronatrade",
   "screenerId": "AgAAQVCZ",
   "screenerName": "ДЛЯ МОНИТОРИНГА",
-  "savedAt": "2026-03-30T09:33:50.472Z",
+  "savedAt": "2026-03-30T11:57:32.821Z",
   "filters": {
     "columns": [
       "ticker-view",
@@ -253,7 +253,9 @@
                         "left": "typespecs",
                         "operation": "has_none_of",
                         "right": [
-                          "etf"
+                          "etf",
+                          "mutual",
+                          "closedend"
                         ]
                       }
                     }
@@ -275,5 +277,5 @@
       ]
     }
   },
-  "updatedAt": "2026-03-30T09:33:50.472Z"
+  "updatedAt": "2026-03-30T11:57:32.821Z"
 }
