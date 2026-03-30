@@ -3,7 +3,7 @@
   "username": "infocoronatrade",
   "screenerId": "AgAAQVCZ",
   "screenerName": "ДЛЯ МОНИТОРИНГА",
-  "savedAt": "2026-03-30T08:08:17.507Z",
+  "savedAt": "2026-03-30T08:08:23.725Z",
   "filters": {
     "columns": [
       "ticker-view",
@@ -272,5 +272,5 @@
       ]
     }
   },
-  "updatedAt": "2026-03-30T08:08:17.507Z"
+  "updatedAt": "2026-03-30T08:08:23.725Z"
 }
