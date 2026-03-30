@@ -3,7 +3,7 @@
   "username": "infocoronatrade",
   "screenerId": "AgAAQVCZ",
   "screenerName": "ДЛЯ МОНИТОРИНГА",
-  "savedAt": "2026-03-30T08:08:23.725Z",
+  "savedAt": "2026-03-30T08:45:04.722Z",
   "filters": {
     "columns": [
       "ticker-view",
@@ -26,7 +26,10 @@
       "Perf.10Y",
       "Perf.All",
       "Volatility.W",
-      "Volatility.M"
+      "Volatility.M",
+      "sector.tr",
+      "market",
+      "sector"
     ],
     "filter": [
       {
@@ -37,7 +40,7 @@
       {
         "left": "close",
         "operation": "egreater",
-        "right": 60
+        "right": 70
       },
       {
         "left": "change|1M",
@@ -272,5 +275,5 @@
       ]
     }
   },
-  "updatedAt": "2026-03-30T08:08:23.725Z"
+  "updatedAt": "2026-03-30T08:45:04.722Z"
 }
