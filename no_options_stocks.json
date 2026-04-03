@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-29T14:07:18.737Z",
+  "updatedAt": "2026-04-03T13:05:50.384Z",
   "tickers": {
     "FISV": {
       "checkedAt": "2026-03-19",
@@ -16,6 +16,18 @@
     },
     "MKC.V": {
       "checkedAt": "2026-03-29",
+      "exchange": "NYSE"
+    },
+    "BBT": {
+      "checkedAt": "2026-04-03",
+      "exchange": "NYSE"
+    },
+    "FLY": {
+      "checkedAt": "2026-04-03",
+      "exchange": "NASDAQ"
+    },
+    "BLSH": {
+      "checkedAt": "2026-04-03",
       "exchange": "NYSE"
     }
   }
