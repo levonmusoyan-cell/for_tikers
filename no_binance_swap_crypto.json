@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-30T12:36:09.334Z",
+  "updatedAt": "2026-04-03T21:21:03.389Z",
   "tickers": {
     "KCS": {
       "checkedAt": "2026-03-19",
@@ -956,6 +956,14 @@
     },
     "DOKY": {
       "checkedAt": "2026-03-30",
+      "reason": "not_on_binance"
+    },
+    "EDGE": {
+      "checkedAt": "2026-04-03",
+      "reason": "not_on_binance"
+    },
+    "NIZA": {
+      "checkedAt": "2026-04-03",
       "reason": "not_on_binance"
     }
   }
