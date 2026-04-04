@@ -38,9 +38,10 @@
     "FLUT",
     "CHTR",
     "MOH",
-    "UNH"
+    "UNH",
+    "ADBE"
   ],
   "source": "tv_screener",
-  "total": 39,
-  "updated_at": "2026-04-04T09:16:48.541Z"
+  "total": 40,
+  "updated_at": "2026-04-04T09:22:30.885Z"
 }
