@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-05T08:04:43.078Z",
+  "updatedAt": "2026-04-05T16:04:25.959Z",
   "tickers": {
     "KCS": {
       "checkedAt": "2026-03-19",
@@ -967,6 +967,10 @@
       "reason": "not_on_binance"
     },
     "AIH": {
+      "checkedAt": "2026-04-05",
+      "reason": "not_on_binance"
+    },
+    "GMRT": {
       "checkedAt": "2026-04-05",
       "reason": "not_on_binance"
     }
