@@ -1,6 +1,5 @@
 {
   "tickers": [
-    "ARE",
     "ADBE",
     "MSTR",
     "CVLT",
@@ -23,25 +22,26 @@
     "WDAY",
     "WIX",
     "Z",
-    "FOUR",
     "EEFT",
-    "MORN",
     "FDS",
+    "FOUR",
+    "MORN",
     "KMX",
-    "SFM",
     "RH",
-    "GSHD",
+    "SFM",
+    "ARE",
     "BRO",
+    "GSHD",
     "CORT",
     "INSP",
-    "MKC",
     "LULU",
-    "FLUT",
+    "MKC",
     "CHTR",
+    "FLUT",
     "MOH",
     "UNH"
   ],
   "source": "tv_screener",
   "total": 40,
-  "updated_at": "2026-04-05T13:35:14.504Z"
+  "updated_at": "2026-04-05T14:12:14.023Z"
 }
