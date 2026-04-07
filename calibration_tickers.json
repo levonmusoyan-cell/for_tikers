@@ -1,17 +1,17 @@
 {
   "tickers": [
-    "CECO",
-    "ICHR",
-    "ALNT",
-    "GHM",
     "ANAB",
     "PVLA",
     "INBX",
+    "CECO",
+    "ICHR",
+    "GHM",
     "LINC",
+    "NBR",
+    "FET",
     "SWMR",
     "REX",
     "APEI",
-    "FET",
     "TSAT",
     "ADBE",
     "CORT",
@@ -59,9 +59,10 @@
     "SYRE",
     "HUT",
     "AEHR",
-    "VSAT"
+    "VSAT",
+    "ALNT"
   ],
   "source": "tv_screener",
-  "total": 60,
-  "updated_at": "2026-04-07T12:06:49.663Z"
+  "total": 61,
+  "updated_at": "2026-04-07T13:36:00.983Z"
 }
