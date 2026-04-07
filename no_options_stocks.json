@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-07T12:01:29.976Z",
+  "updatedAt": "2026-04-07T12:06:48.548Z",
   "tickers": {
     "FISV": {
       "checkedAt": "2026-03-19",
@@ -41,6 +41,34 @@
     "ECG": {
       "checkedAt": "2026-04-07",
       "exchange": "NYSE"
+    },
+    "PSIX": {
+      "checkedAt": "2026-04-07",
+      "exchange": "NASDAQ"
+    },
+    "RHLD": {
+      "checkedAt": "2026-04-07",
+      "exchange": "NYSE"
+    },
+    "BETR": {
+      "checkedAt": "2026-04-07",
+      "exchange": "NASDAQ"
+    },
+    "FEIM": {
+      "checkedAt": "2026-04-07",
+      "exchange": "NASDAQ"
+    },
+    "BNAI": {
+      "checkedAt": "2026-04-07",
+      "exchange": "NASDAQ"
+    },
+    "SLGL": {
+      "checkedAt": "2026-04-07",
+      "exchange": "NASDAQ"
+    },
+    "SPRB": {
+      "checkedAt": "2026-04-07",
+      "exchange": "NASDAQ"
     }
   }
 }
