@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-07T12:06:48.548Z",
+  "updatedAt": "2026-04-07T13:35:59.805Z",
   "tickers": {
     "FISV": {
       "checkedAt": "2026-03-19",
@@ -67,6 +67,14 @@
       "exchange": "NASDAQ"
     },
     "SPRB": {
+      "checkedAt": "2026-04-07",
+      "exchange": "NASDAQ"
+    },
+    "ELVR": {
+      "checkedAt": "2026-04-07",
+      "exchange": "NASDAQ"
+    },
+    "ESEA": {
       "checkedAt": "2026-04-07",
       "exchange": "NASDAQ"
     }
