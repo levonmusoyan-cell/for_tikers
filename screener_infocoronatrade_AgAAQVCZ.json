@@ -3,7 +3,7 @@
   "username": "infocoronatrade",
   "screenerId": "AgAAQVCZ",
   "screenerName": "ДЛЯ МОНИТОРИНГА",
-  "savedAt": "2026-04-06T19:28:29.709Z",
+  "savedAt": "2026-04-07T10:13:05.345Z",
   "filters": {
     "columns": [
       "ticker-view",
@@ -43,11 +43,6 @@
         "right": 40
       },
       {
-        "left": "change|1M",
-        "operation": "less",
-        "right": 40
-      },
-      {
         "left": "market_cap_basic",
         "operation": "egreater",
         "right": 1000000000
@@ -82,7 +77,7 @@
       {
         "left": "Perf.Y",
         "operation": "greater",
-        "right": 200
+        "right": 250
       },
       {
         "left": "average_volume_30d_calc",
@@ -279,5 +274,5 @@
       ]
     }
   },
-  "updatedAt": "2026-04-06T19:28:29.709Z"
+  "updatedAt": "2026-04-07T10:13:05.345Z"
 }
