@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-03T13:05:50.384Z",
+  "updatedAt": "2026-04-07T12:01:29.976Z",
   "tickers": {
     "FISV": {
       "checkedAt": "2026-03-19",
@@ -28,6 +28,18 @@
     },
     "BLSH": {
       "checkedAt": "2026-04-03",
+      "exchange": "NYSE"
+    },
+    "AUGO": {
+      "checkedAt": "2026-04-07",
+      "exchange": "NASDAQ"
+    },
+    "ABVX": {
+      "checkedAt": "2026-04-07",
+      "exchange": "NASDAQ"
+    },
+    "ECG": {
+      "checkedAt": "2026-04-07",
       "exchange": "NYSE"
     }
   }
