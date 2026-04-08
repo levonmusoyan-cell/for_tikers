@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-08T12:36:46.283Z",
+  "updatedAt": "2026-04-08T13:36:02.035Z",
   "tickers": {
     "FISV": {
       "checkedAt": "2026-03-19",
@@ -79,6 +79,18 @@
       "exchange": "NASDAQ"
     },
     "RKLB": {
+      "checkedAt": "2026-04-08",
+      "exchange": "NASDAQ"
+    },
+    "DRUG": {
+      "checkedAt": "2026-04-08",
+      "exchange": "NASDAQ"
+    },
+    "RCKY": {
+      "checkedAt": "2026-04-08",
+      "exchange": "NASDAQ"
+    },
+    "VTVT": {
       "checkedAt": "2026-04-08",
       "exchange": "NASDAQ"
     }
