@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-07T13:35:59.805Z",
+  "updatedAt": "2026-04-08T12:36:46.283Z",
   "tickers": {
     "FISV": {
       "checkedAt": "2026-03-19",
@@ -76,6 +76,10 @@
     },
     "ESEA": {
       "checkedAt": "2026-04-07",
+      "exchange": "NASDAQ"
+    },
+    "RKLB": {
+      "checkedAt": "2026-04-08",
       "exchange": "NASDAQ"
     }
   }
