@@ -1,5 +1,6 @@
 {
   "tickers": [
+    "GRAL",
     "ANAB",
     "PVLA",
     "ICHR",
@@ -50,6 +51,6 @@
     "Z"
   ],
   "source": "tv_screener",
-  "total": 48,
-  "updated_at": "2026-04-09T18:40:58.458Z"
+  "total": 49,
+  "updated_at": "2026-04-09T18:47:13.486Z"
 }
