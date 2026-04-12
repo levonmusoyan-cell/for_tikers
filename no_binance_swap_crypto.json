@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-05T16:04:25.959Z",
+  "updatedAt": "2026-04-12T11:05:18.558Z",
   "tickers": {
     "KCS": {
       "checkedAt": "2026-03-19",
@@ -972,6 +972,34 @@
     },
     "GMRT": {
       "checkedAt": "2026-04-05",
+      "reason": "not_on_binance"
+    },
+    "BTC": {
+      "checkedAt": "2026-04-12",
+      "reason": "not_on_binance"
+    },
+    "LINK": {
+      "checkedAt": "2026-04-12",
+      "reason": "not_on_binance"
+    },
+    "SUI": {
+      "checkedAt": "2026-04-12",
+      "reason": "not_on_binance"
+    },
+    "TON": {
+      "checkedAt": "2026-04-12",
+      "reason": "not_on_binance"
+    },
+    "DOT": {
+      "checkedAt": "2026-04-12",
+      "reason": "not_on_binance"
+    },
+    "DEXE": {
+      "checkedAt": "2026-04-12",
+      "reason": "not_on_binance"
+    },
+    "ENA": {
+      "checkedAt": "2026-04-12",
       "reason": "not_on_binance"
     }
   }
