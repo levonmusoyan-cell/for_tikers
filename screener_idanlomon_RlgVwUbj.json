@@ -2,8 +2,8 @@
   "version": 1,
   "username": "idanlomon",
   "screenerId": "RlgVwUbj",
-  "screenerName": "STOCKS1",
-  "savedAt": "2026-04-05T14:11:35.658Z",
+  "screenerName": "акции на рост",
+  "savedAt": "2026-04-19T17:46:39.290Z",
   "filters": {
     "columns": [
       "ticker-view",
@@ -44,7 +44,7 @@
       {
         "left": "market_cap_basic",
         "operation": "egreater",
-        "right": 1000000000
+        "right": 2000000000
       },
       {
         "left": "sector",
@@ -75,8 +75,8 @@
       },
       {
         "left": "Perf.Y",
-        "operation": "less",
-        "right": -40
+        "operation": "greater",
+        "right": 200
       },
       {
         "left": "average_volume_30d_calc",
@@ -278,5 +278,5 @@
       ]
     }
   },
-  "updatedAt": "2026-04-05T14:11:35.658Z"
+  "updatedAt": "2026-04-19T17:46:39.291Z"
 }
