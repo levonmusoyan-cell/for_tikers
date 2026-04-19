@@ -3,7 +3,7 @@
   "username": "idanlomon",
   "screenerId": "RlgVwUbj",
   "screenerName": "акции на рост",
-  "savedAt": "2026-04-19T17:46:39.290Z",
+  "savedAt": "2026-04-19T17:48:34.753Z",
   "filters": {
     "columns": [
       "ticker-view",
@@ -278,5 +278,5 @@
       ]
     }
   },
-  "updatedAt": "2026-04-19T17:46:39.291Z"
+  "updatedAt": "2026-04-19T17:48:34.753Z"
 }
