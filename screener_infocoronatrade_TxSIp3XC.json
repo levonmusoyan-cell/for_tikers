@@ -3,7 +3,7 @@
   "username": "infocoronatrade",
   "screenerId": "TxSIp3XC",
   "screenerName": "РОСТ более 250%",
-  "savedAt": "2026-04-09T12:08:14.343Z",
+  "savedAt": "2026-04-19T17:48:25.217Z",
   "filters": {
     "columns": [
       "ticker-view",
@@ -38,12 +38,12 @@
       },
       {
         "left": "close",
-        "operation": "greater",
+        "operation": "egreater",
         "right": 40
       },
       {
         "left": "market_cap_basic",
-        "operation": "eless",
+        "operation": "egreater",
         "right": 2000000000
       },
       {
@@ -76,12 +76,12 @@
       {
         "left": "Perf.Y",
         "operation": "greater",
-        "right": 130
+        "right": 200
       },
       {
         "left": "average_volume_30d_calc",
         "operation": "greater",
-        "right": 250000
+        "right": 500000
       }
     ],
     "ignore_unknown_fields": false,
@@ -273,5 +273,5 @@
       ]
     }
   },
-  "updatedAt": "2026-04-09T12:08:14.344Z"
+  "updatedAt": "2026-04-19T17:48:25.217Z"
 }
