@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-12T16:04:23.559Z",
+  "updatedAt": "2026-04-19T16:03:54.114Z",
   "tickers": {
     "KCS": {
       "checkedAt": "2026-03-19",
@@ -1008,6 +1008,30 @@
     },
     "SMART": {
       "checkedAt": "2026-04-12",
+      "reason": "not_on_binance"
+    },
+    "CTM": {
+      "checkedAt": "2026-04-19",
+      "reason": "not_on_binance"
+    },
+    "GENIUS": {
+      "checkedAt": "2026-04-19",
+      "reason": "not_on_binance"
+    },
+    "ASTEROID": {
+      "checkedAt": "2026-04-19",
+      "reason": "not_on_binance"
+    },
+    "QFI": {
+      "checkedAt": "2026-04-19",
+      "reason": "not_on_binance"
+    },
+    "STC": {
+      "checkedAt": "2026-04-19",
+      "reason": "not_on_binance"
+    },
+    "MRVLX": {
+      "checkedAt": "2026-04-19",
       "reason": "not_on_binance"
     }
   }
