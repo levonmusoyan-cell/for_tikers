@@ -5,11 +5,14 @@
     "RMBS",
     "SNDK",
     "TERN",
+    "DK",
+    "PARR",
+    "TPC",
     "GEV",
     "LITE",
+    "CLS",
     "FIVE",
     "IREN",
-    "PARR",
     "GSAT",
     "AGX",
     "AAOI",
@@ -83,6 +86,6 @@
     "VSAT"
   ],
   "source": "tv_screener",
-  "total": 81,
-  "updated_at": "2026-04-24T14:09:44.807Z"
+  "total": 84,
+  "updated_at": "2026-04-24T14:15:03.029Z"
 }
