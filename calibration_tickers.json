@@ -2,17 +2,19 @@
   "tickers": [
     "FN",
     "MXL",
-    "RMBS",
     "SNDK",
+    "ANAB",
     "TERN",
-    "DK",
-    "PARR",
-    "TPC",
     "GEV",
-    "LITE",
+    "TPC",
     "CLS",
+    "RMBS",
+    "DK",
     "FIVE",
     "IREN",
+    "LITE",
+    "PARR",
+    "GCT",
     "GSAT",
     "AGX",
     "AAOI",
@@ -86,6 +88,6 @@
     "VSAT"
   ],
   "source": "tv_screener",
-  "total": 84,
-  "updated_at": "2026-04-24T14:33:18.189Z"
+  "total": 86,
+  "updated_at": "2026-04-24T14:41:51.845Z"
 }
