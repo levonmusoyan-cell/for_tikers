@@ -1,11 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-08T13:36:02.035Z",
+  "updatedAt": "2026-04-25T15:52:32.694Z",
   "tickers": {
-    "FISV": {
-      "checkedAt": "2026-03-19",
-      "exchange": "NASDAQ"
-    },
     "CABO": {
       "checkedAt": "2026-03-19",
       "exchange": "NYSE"
