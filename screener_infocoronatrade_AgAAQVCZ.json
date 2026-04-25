@@ -3,7 +3,7 @@
   "username": "infocoronatrade",
   "screenerId": "AgAAQVCZ",
   "screenerName": "ПАДЕНИЕ 40% И БОЛЕЕ",
-  "savedAt": "2026-04-25T15:53:23.315Z",
+  "savedAt": "2026-04-25T16:22:37.808Z",
   "filters": {
     "columns": [
       "ticker-view",
@@ -274,5 +274,5 @@
       ]
     }
   },
-  "updatedAt": "2026-04-25T15:53:23.315Z"
+  "updatedAt": "2026-04-25T16:22:37.808Z"
 }
