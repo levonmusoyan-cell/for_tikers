@@ -3,7 +3,6 @@
     "AMD",
     "INTC",
     "SNDK",
-    "RKLB",
     "FN",
     "RMBS",
     "AAOI",
@@ -11,13 +10,10 @@
     "GEV",
     "LITE",
     "AGX",
-    "ECG",
-    "ABVX",
     "TERN",
     "IREN",
     "FIVE",
     "GSAT",
-    "AUGO",
     "PARR",
     "ACLS",
     "AEHR",
@@ -87,6 +83,6 @@
     "VSAT"
   ],
   "source": "tv_screener",
-  "total": 85,
-  "updated_at": "2026-04-26T19:21:35.649Z"
+  "total": 81,
+  "updated_at": "2026-04-26T19:24:35.321Z"
 }
