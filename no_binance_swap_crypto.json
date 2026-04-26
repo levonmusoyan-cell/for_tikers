@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-26T16:06:10.204Z",
+  "updatedAt": "2026-04-26T17:44:17.429Z",
   "tickers": {
     "KCS": {
       "checkedAt": "2026-03-19",
@@ -1171,6 +1171,10 @@
       "reason": "not_on_binance"
     },
     "IRIS": {
+      "checkedAt": "2026-04-26",
+      "reason": "not_on_binance"
+    },
+    "ETC": {
       "checkedAt": "2026-04-26",
       "reason": "not_on_binance"
     }
