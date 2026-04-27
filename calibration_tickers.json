@@ -1,21 +1,23 @@
 {
   "tickers": [
-    "AMD",
-    "INTC",
-    "SNDK",
-    "FN",
     "AAOI",
+    "AMD",
+    "FN",
+    "INTC",
     "MXL",
+    "SNDK",
     "AGX",
     "VAL",
     "LGN",
-    "GEV",
-    "LITE",
     "TERN",
-    "PARR",
     "DK",
-    "IREN",
+    "PARR",
+    "TPC",
+    "LITE",
+    "GEV",
+    "CLS",
     "FIVE",
+    "IREN",
     "GSAT",
     "ACLS",
     "AEHR",
@@ -85,6 +87,6 @@
     "VSAT"
   ],
   "source": "tv_screener",
-  "total": 83,
-  "updated_at": "2026-04-27T18:39:30.214Z"
+  "total": 85,
+  "updated_at": "2026-04-27T18:43:51.986Z"
 }
