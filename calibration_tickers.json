@@ -10,11 +10,13 @@
     "GEV",
     "LITE",
     "AGX",
+    "VAL",
     "TERN",
+    "PARR",
+    "DK",
     "IREN",
     "FIVE",
     "GSAT",
-    "PARR",
     "ACLS",
     "AEHR",
     "AEIS",
@@ -83,6 +85,6 @@
     "VSAT"
   ],
   "source": "tv_screener",
-  "total": 81,
-  "updated_at": "2026-04-27T11:23:57.977Z"
+  "total": 83,
+  "updated_at": "2026-04-27T13:36:28.014Z"
 }
