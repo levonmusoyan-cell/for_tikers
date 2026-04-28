@@ -1,24 +1,20 @@
 {
   "tickers": [
-    "AAOI",
     "AMD",
-    "FN",
     "INTC",
-    "MXL",
     "SNDK",
-    "AGX",
-    "LGN",
-    "VAL",
+    "FN",
+    "AAOI",
+    "MXL",
     "TERN",
-    "DK",
+    "ANAB",
     "PARR",
-    "GEV",
+    "DK",
     "LITE",
-    "CLS",
-    "FIVE",
     "IREN",
-    "TPC",
+    "FIVE",
     "GSAT",
+    "AGX",
     "ACLS",
     "AEHR",
     "AEIS",
@@ -87,6 +83,6 @@
     "VSAT"
   ],
   "source": "tv_screener",
-  "total": 85,
-  "updated_at": "2026-04-28T08:55:10.594Z"
+  "total": 81,
+  "updated_at": "2026-04-28T13:36:27.041Z"
 }
