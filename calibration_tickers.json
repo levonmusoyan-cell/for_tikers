@@ -7,7 +7,6 @@
     "INTC",
     "MU",
     "MXL",
-    "RKLB",
     "SNDK",
     "STX",
     "TER",
@@ -38,11 +37,9 @@
     "VAL",
     "MTZ",
     "AGX",
-    "AUGO",
     "CENX",
     "DK",
     "PARR",
-    "ECG",
     "TPC",
     "SATS",
     "GSAT",
@@ -74,6 +71,6 @@
     "SIMO"
   ],
   "source": "tv_screener",
-  "total": 72,
-  "updated_at": "2026-04-28T19:26:20.853Z"
+  "total": 69,
+  "updated_at": "2026-04-28T19:32:10.508Z"
 }
