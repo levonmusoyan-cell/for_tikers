@@ -5,9 +5,7 @@
     "FN",
     "INTC",
     "MXL",
-    "RKLB",
     "SNDK",
-    "ECG",
     "AGX",
     "LGN",
     "VAL",
@@ -16,7 +14,6 @@
     "PARR",
     "GEV",
     "LITE",
-    "AUGO",
     "CLS",
     "FIVE",
     "IREN",
@@ -90,6 +87,6 @@
     "VSAT"
   ],
   "source": "tv_screener",
-  "total": 88,
-  "updated_at": "2026-04-28T08:53:14.241Z"
+  "total": 85,
+  "updated_at": "2026-04-28T08:55:10.594Z"
 }
