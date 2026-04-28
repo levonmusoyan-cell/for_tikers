@@ -47,7 +47,6 @@
     "CLS",
     "FIVE",
     "SPHR",
-    "DAVE",
     "ACLS",
     "AEHR",
     "AMKR",
@@ -71,6 +70,6 @@
     "SIMO"
   ],
   "source": "tv_screener",
-  "total": 69,
-  "updated_at": "2026-04-28T19:42:52.174Z"
+  "total": 68,
+  "updated_at": "2026-04-28T20:01:11.152Z"
 }
