@@ -9,6 +9,7 @@
     "VRT",
     "BE",
     "TER",
+    "RKLB",
     "FN",
     "TTMI",
     "AEIS",
@@ -17,6 +18,7 @@
     "MXL",
     "RVMD",
     "ARWR",
+    "ABVX",
     "TERN",
     "SYRE",
     "CELC",
@@ -39,6 +41,7 @@
     "VAL",
     "SATS",
     "GSAT",
+    "AUGO",
     "CENX",
     "PARR",
     "DK",
@@ -69,6 +72,6 @@
     "SIMO"
   ],
   "source": "tv_screener",
-  "total": 67,
-  "updated_at": "2026-04-28T19:11:05.032Z"
+  "total": 70,
+  "updated_at": "2026-04-28T19:21:42.559Z"
 }
