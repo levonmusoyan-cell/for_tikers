@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-28T08:51:26.647Z",
+  "updatedAt": "2026-05-03T13:56:35.039Z",
   "tickers": {
     "KCS": {
       "checkedAt": "2026-03-19",
@@ -1180,6 +1180,26 @@
     },
     "PRL": {
       "checkedAt": "2026-04-28",
+      "reason": "not_on_binance"
+    },
+    "USDGO": {
+      "checkedAt": "2026-05-03",
+      "reason": "not_on_binance"
+    },
+    "STRCX": {
+      "checkedAt": "2026-05-03",
+      "reason": "not_on_binance"
+    },
+    "AMDX": {
+      "checkedAt": "2026-05-03",
+      "reason": "not_on_binance"
+    },
+    "AI": {
+      "checkedAt": "2026-05-03",
+      "reason": "not_on_binance"
+    },
+    "CARDS": {
+      "checkedAt": "2026-05-03",
       "reason": "not_on_binance"
     }
   }
