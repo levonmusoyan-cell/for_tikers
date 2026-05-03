@@ -47,8 +47,8 @@
     "SEI",
     "MTZ",
     "AGX",
-    "LGN",
     "VAL",
+    "LGN",
     "SATS",
     "GSAT",
     "CENX",
@@ -69,9 +69,10 @@
     "PSN",
     "SYRE",
     "VIAV",
-    "VSAT"
+    "VSAT",
+    "ADBE"
   ],
   "source": "tv_screener",
-  "total": 70,
-  "updated_at": "2026-05-02T13:42:10.956Z"
+  "total": 71,
+  "updated_at": "2026-05-03T13:41:30.072Z"
 }
