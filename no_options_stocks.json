@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-25T15:52:32.694Z",
+  "updatedAt": "2026-05-04T15:53:28.104Z",
   "tickers": {
     "CABO": {
       "checkedAt": "2026-03-19",
@@ -21,10 +21,6 @@
     "FLY": {
       "checkedAt": "2026-04-03",
       "exchange": "NASDAQ"
-    },
-    "BLSH": {
-      "checkedAt": "2026-04-03",
-      "exchange": "NYSE"
     },
     "AUGO": {
       "checkedAt": "2026-04-07",
@@ -88,6 +84,10 @@
     },
     "VTVT": {
       "checkedAt": "2026-04-08",
+      "exchange": "NASDAQ"
+    },
+    "TRI": {
+      "checkedAt": "2026-05-04",
       "exchange": "NASDAQ"
     }
   }
