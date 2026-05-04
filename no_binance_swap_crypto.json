@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-03T13:56:35.039Z",
+  "updatedAt": "2026-05-04T19:37:56.058Z",
   "tickers": {
     "KCS": {
       "checkedAt": "2026-03-19",
@@ -1200,6 +1200,10 @@
     },
     "CARDS": {
       "checkedAt": "2026-05-03",
+      "reason": "not_on_binance"
+    },
+    "BILL": {
+      "checkedAt": "2026-05-04",
       "reason": "not_on_binance"
     }
   }
