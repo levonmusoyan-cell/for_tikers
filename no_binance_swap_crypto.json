@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-04T19:37:56.058Z",
+  "updatedAt": "2026-05-05T08:16:46.506Z",
   "tickers": {
     "KCS": {
       "checkedAt": "2026-03-19",
@@ -1204,6 +1204,10 @@
     },
     "BILL": {
       "checkedAt": "2026-05-04",
+      "reason": "not_on_binance"
+    },
+    "EUSX": {
+      "checkedAt": "2026-05-05",
       "reason": "not_on_binance"
     }
   }
