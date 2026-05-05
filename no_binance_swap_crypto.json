@@ -1,5 +1,58 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-05T08:46:13.275Z",
-  "tickers": {}
+  "updatedAt": "2026-05-05T09:26:39.685Z",
+  "tickers": {
+    "LEO": {
+      "checkedAt": "2026-05-05",
+      "reason": "not_on_binance"
+    },
+    "USD1": {
+      "checkedAt": "2026-05-05",
+      "reason": "not_on_binance"
+    },
+    "USDE": {
+      "checkedAt": "2026-05-05",
+      "reason": "not_on_binance"
+    },
+    "SHIB": {
+      "checkedAt": "2026-05-05",
+      "reason": "not_on_binance"
+    },
+    "CRO": {
+      "checkedAt": "2026-05-05",
+      "reason": "not_on_binance"
+    },
+    "XAUT": {
+      "checkedAt": "2026-05-05",
+      "reason": "not_on_binance"
+    },
+    "USDG": {
+      "checkedAt": "2026-05-05",
+      "reason": "not_on_binance"
+    },
+    "MNT": {
+      "checkedAt": "2026-05-05",
+      "reason": "not_on_binance"
+    },
+    "PI": {
+      "checkedAt": "2026-05-05",
+      "reason": "not_on_binance"
+    },
+    "OKB": {
+      "checkedAt": "2026-05-05",
+      "reason": "not_on_binance"
+    },
+    "PEPE": {
+      "checkedAt": "2026-05-05",
+      "reason": "not_on_binance"
+    },
+    "RLUSD": {
+      "checkedAt": "2026-05-05",
+      "reason": "not_on_binance"
+    },
+    "BGB": {
+      "checkedAt": "2026-05-05",
+      "reason": "not_on_binance"
+    }
+  }
 }
