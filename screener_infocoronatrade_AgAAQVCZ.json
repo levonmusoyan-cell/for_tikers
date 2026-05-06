@@ -3,7 +3,7 @@
   "username": "infocoronatrade",
   "screenerId": "AgAAQVCZ",
   "screenerName": "ПАДЕНИЕ 40% И БОЛЕЕ",
-  "savedAt": "2026-05-04T11:14:09.461Z",
+  "savedAt": "2026-05-06T15:25:37.616Z",
   "filters": {
     "columns": [
       "ticker-view",
@@ -33,29 +33,9 @@
     ],
     "filter": [
       {
-        "left": "Perf.Y",
-        "operation": "less",
-        "right": -40
-      },
-      {
-        "left": "market_cap_basic",
-        "operation": "egreater",
-        "right": 2000000000
-      },
-      {
         "left": "is_blacklisted",
         "operation": "equal",
         "right": false
-      },
-      {
-        "left": "average_volume_30d_calc",
-        "operation": "greater",
-        "right": 500000
-      },
-      {
-        "left": "close",
-        "operation": "egreater",
-        "right": 40
       },
       {
         "left": "sector",
@@ -83,6 +63,26 @@
           "Transportation",
           "Utilities"
         ]
+      },
+      {
+        "left": "Perf.Y",
+        "operation": "less",
+        "right": -40
+      },
+      {
+        "left": "average_volume_30d_calc",
+        "operation": "greater",
+        "right": 500000
+      },
+      {
+        "left": "market_cap_basic",
+        "operation": "egreater",
+        "right": 2000000000
+      },
+      {
+        "left": "close",
+        "operation": "egreater",
+        "right": 40
       }
     ],
     "ignore_unknown_fields": false,
@@ -251,8 +251,7 @@
                         "operation": "has_none_of",
                         "right": [
                           "etf",
-                          "mutual",
-                          "closedend"
+                          "mutual"
                         ]
                       }
                     }
@@ -274,5 +273,5 @@
       ]
     }
   },
-  "updatedAt": "2026-05-04T11:14:09.462Z"
+  "updatedAt": "2026-05-06T15:25:37.616Z"
 }
