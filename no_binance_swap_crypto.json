@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-06T14:25:39.436Z",
+  "updatedAt": "2026-05-06T14:30:15.289Z",
   "tickers": {
     "LEO": {
       "checkedAt": "2026-05-05",
@@ -58,7 +58,15 @@
       "checkedAt": "2026-05-06",
       "reason": "not_on_binance"
     },
+    "M": {
+      "checkedAt": "2026-05-06",
+      "reason": "not_on_binance"
+    },
     "PAXG": {
+      "checkedAt": "2026-05-06",
+      "reason": "not_on_binance"
+    },
+    "SKY": {
       "checkedAt": "2026-05-06",
       "reason": "not_on_binance"
     },
@@ -66,7 +74,15 @@
       "checkedAt": "2026-05-06",
       "reason": "not_on_binance"
     },
+    "MORPHO": {
+      "checkedAt": "2026-05-06",
+      "reason": "not_on_binance"
+    },
     "U": {
+      "checkedAt": "2026-05-06",
+      "reason": "not_on_binance"
+    },
+    "RENDER": {
       "checkedAt": "2026-05-06",
       "reason": "not_on_binance"
     },
@@ -75,6 +91,18 @@
       "reason": "not_on_binance"
     },
     "GT": {
+      "checkedAt": "2026-05-06",
+      "reason": "not_on_binance"
+    },
+    "SKYAI": {
+      "checkedAt": "2026-05-06",
+      "reason": "not_on_binance"
+    },
+    "STABLE": {
+      "checkedAt": "2026-05-06",
+      "reason": "not_on_binance"
+    },
+    "JST": {
       "checkedAt": "2026-05-06",
       "reason": "not_on_binance"
     },
@@ -98,7 +126,27 @@
       "checkedAt": "2026-05-06",
       "reason": "not_on_binance"
     },
+    "SIREN": {
+      "checkedAt": "2026-05-06",
+      "reason": "not_on_binance"
+    },
+    "H": {
+      "checkedAt": "2026-05-06",
+      "reason": "not_on_binance"
+    },
+    "VVV": {
+      "checkedAt": "2026-05-06",
+      "reason": "not_on_binance"
+    },
     "EDGE": {
+      "checkedAt": "2026-05-06",
+      "reason": "not_on_binance"
+    },
+    "ZRO": {
+      "checkedAt": "2026-05-06",
+      "reason": "not_on_binance"
+    },
+    "CHZ": {
       "checkedAt": "2026-05-06",
       "reason": "not_on_binance"
     },
@@ -106,11 +154,11 @@
       "checkedAt": "2026-05-06",
       "reason": "not_on_binance"
     },
-    "DCR": {
+    "GNO": {
       "checkedAt": "2026-05-06",
       "reason": "not_on_binance"
     },
-    "GNO": {
+    "DCR": {
       "checkedAt": "2026-05-06",
       "reason": "not_on_binance"
     },
@@ -158,7 +206,15 @@
       "checkedAt": "2026-05-06",
       "reason": "not_on_binance"
     },
+    "STG": {
+      "checkedAt": "2026-05-06",
+      "reason": "not_on_binance"
+    },
     "MX": {
+      "checkedAt": "2026-05-06",
+      "reason": "not_on_binance"
+    },
+    "RAVE": {
       "checkedAt": "2026-05-06",
       "reason": "not_on_binance"
     },
@@ -167,10 +223,6 @@
       "reason": "not_on_binance"
     },
     "XEC": {
-      "checkedAt": "2026-05-06",
-      "reason": "not_on_binance"
-    },
-    "MEGA": {
       "checkedAt": "2026-05-06",
       "reason": "not_on_binance"
     },
@@ -242,6 +294,10 @@
       "checkedAt": "2026-05-06",
       "reason": "not_on_binance"
     },
+    "ESPORTS": {
+      "checkedAt": "2026-05-06",
+      "reason": "not_on_binance"
+    },
     "CRCLX": {
       "checkedAt": "2026-05-06",
       "reason": "not_on_binance"
@@ -262,15 +318,15 @@
       "checkedAt": "2026-05-06",
       "reason": "not_on_binance"
     },
-    "BILL": {
-      "checkedAt": "2026-05-06",
-      "reason": "not_on_binance"
-    },
     "TIBBIR": {
       "checkedAt": "2026-05-06",
       "reason": "not_on_binance"
     },
     "ZANO": {
+      "checkedAt": "2026-05-06",
+      "reason": "not_on_binance"
+    },
+    "BILL": {
       "checkedAt": "2026-05-06",
       "reason": "not_on_binance"
     },
@@ -298,11 +354,11 @@
       "checkedAt": "2026-05-06",
       "reason": "not_on_binance"
     },
-    "GOMINING": {
+    "SOSO": {
       "checkedAt": "2026-05-06",
       "reason": "not_on_binance"
     },
-    "SOSO": {
+    "GOMINING": {
       "checkedAt": "2026-05-06",
       "reason": "not_on_binance"
     },
@@ -318,11 +374,11 @@
       "checkedAt": "2026-05-06",
       "reason": "not_on_binance"
     },
-    "REAL": {
+    "BSB": {
       "checkedAt": "2026-05-06",
       "reason": "not_on_binance"
     },
-    "BSB": {
+    "REAL": {
       "checkedAt": "2026-05-06",
       "reason": "not_on_binance"
     },
@@ -391,246 +447,6 @@
       "reason": "not_on_binance"
     },
     "AIOZ": {
-      "checkedAt": "2026-05-06",
-      "reason": "not_on_binance"
-    },
-    "TFUEL": {
-      "checkedAt": "2026-05-06",
-      "reason": "not_on_binance"
-    },
-    "XPR": {
-      "checkedAt": "2026-05-06",
-      "reason": "not_on_binance"
-    },
-    "KTA": {
-      "checkedAt": "2026-05-06",
-      "reason": "not_on_binance"
-    },
-    "DOG": {
-      "checkedAt": "2026-05-06",
-      "reason": "not_on_binance"
-    },
-    "CTC": {
-      "checkedAt": "2026-05-06",
-      "reason": "not_on_binance"
-    },
-    "WOULD": {
-      "checkedAt": "2026-05-06",
-      "reason": "not_on_binance"
-    },
-    "BABYDOGE": {
-      "checkedAt": "2026-05-06",
-      "reason": "not_on_binance"
-    },
-    "MBG": {
-      "checkedAt": "2026-05-06",
-      "reason": "not_on_binance"
-    },
-    "RON": {
-      "checkedAt": "2026-05-06",
-      "reason": "not_on_binance"
-    },
-    "CYS": {
-      "checkedAt": "2026-05-06",
-      "reason": "not_on_binance"
-    },
-    "AMP": {
-      "checkedAt": "2026-05-06",
-      "reason": "not_on_binance"
-    },
-    "SN4": {
-      "checkedAt": "2026-05-06",
-      "reason": "not_on_binance"
-    },
-    "LISUSD": {
-      "checkedAt": "2026-05-06",
-      "reason": "not_on_binance"
-    },
-    "GOOGLX": {
-      "checkedAt": "2026-05-06",
-      "reason": "not_on_binance"
-    },
-    "DGB": {
-      "checkedAt": "2026-05-06",
-      "reason": "not_on_binance"
-    },
-    "INI": {
-      "checkedAt": "2026-05-06",
-      "reason": "not_on_binance"
-    },
-    "DHN": {
-      "checkedAt": "2026-05-06",
-      "reason": "not_on_binance"
-    },
-    "DRV": {
-      "checkedAt": "2026-05-06",
-      "reason": "not_on_binance"
-    },
-    "AMDX": {
-      "checkedAt": "2026-05-06",
-      "reason": "not_on_binance"
-    },
-    "JSM": {
-      "checkedAt": "2026-05-06",
-      "reason": "not_on_binance"
-    },
-    "SPYX": {
-      "checkedAt": "2026-05-06",
-      "reason": "not_on_binance"
-    },
-    "ELF": {
-      "checkedAt": "2026-05-06",
-      "reason": "not_on_binance"
-    },
-    "ORBR": {
-      "checkedAt": "2026-05-06",
-      "reason": "not_on_binance"
-    },
-    "SN51": {
-      "checkedAt": "2026-05-06",
-      "reason": "not_on_binance"
-    },
-    "NILA": {
-      "checkedAt": "2026-05-06",
-      "reason": "not_on_binance"
-    },
-    "XUSD": {
-      "checkedAt": "2026-05-06",
-      "reason": "not_on_binance"
-    },
-    "NPC": {
-      "checkedAt": "2026-05-06",
-      "reason": "not_on_binance"
-    },
-    "USDSUI": {
-      "checkedAt": "2026-05-06",
-      "reason": "not_on_binance"
-    },
-    "VELO": {
-      "checkedAt": "2026-05-06",
-      "reason": "not_on_binance"
-    },
-    "FIDD": {
-      "checkedAt": "2026-05-06",
-      "reason": "not_on_binance"
-    },
-    "XNO": {
-      "checkedAt": "2026-05-06",
-      "reason": "not_on_binance"
-    },
-    "MOG": {
-      "checkedAt": "2026-05-06",
-      "reason": "not_on_binance"
-    },
-    "LUR": {
-      "checkedAt": "2026-05-06",
-      "reason": "not_on_binance"
-    },
-    "KUB": {
-      "checkedAt": "2026-05-06",
-      "reason": "not_on_binance"
-    },
-    "CARDS": {
-      "checkedAt": "2026-05-06",
-      "reason": "not_on_binance"
-    },
-    "QFI": {
-      "checkedAt": "2026-05-06",
-      "reason": "not_on_binance"
-    },
-    "VBUSD": {
-      "checkedAt": "2026-05-06",
-      "reason": "not_on_binance"
-    },
-    "EURI": {
-      "checkedAt": "2026-05-06",
-      "reason": "not_on_binance"
-    },
-    "NOCK": {
-      "checkedAt": "2026-05-06",
-      "reason": "not_on_binance"
-    },
-    "BDCA": {
-      "checkedAt": "2026-05-06",
-      "reason": "not_on_binance"
-    },
-    "WMTX": {
-      "checkedAt": "2026-05-06",
-      "reason": "not_on_binance"
-    },
-    "USDON": {
-      "checkedAt": "2026-05-06",
-      "reason": "not_on_binance"
-    },
-    "HSK": {
-      "checkedAt": "2026-05-06",
-      "reason": "not_on_binance"
-    },
-    "CCD": {
-      "checkedAt": "2026-05-06",
-      "reason": "not_on_binance"
-    },
-    "GEOD": {
-      "checkedAt": "2026-05-06",
-      "reason": "not_on_binance"
-    },
-    "REQ": {
-      "checkedAt": "2026-05-06",
-      "reason": "not_on_binance"
-    },
-    "VVS": {
-      "checkedAt": "2026-05-06",
-      "reason": "not_on_binance"
-    },
-    "PCI": {
-      "checkedAt": "2026-05-06",
-      "reason": "not_on_binance"
-    },
-    "LION": {
-      "checkedAt": "2026-05-06",
-      "reason": "not_on_binance"
-    },
-    "SC": {
-      "checkedAt": "2026-05-06",
-      "reason": "not_on_binance"
-    },
-    "SN44": {
-      "checkedAt": "2026-05-06",
-      "reason": "not_on_binance"
-    },
-    "MRVLX": {
-      "checkedAt": "2026-05-06",
-      "reason": "not_on_binance"
-    },
-    "WIBE": {
-      "checkedAt": "2026-05-06",
-      "reason": "not_on_binance"
-    },
-    "WAVES": {
-      "checkedAt": "2026-05-06",
-      "reason": "not_on_binance"
-    },
-    "PYTHIA": {
-      "checkedAt": "2026-05-06",
-      "reason": "not_on_binance"
-    },
-    "XAUM": {
-      "checkedAt": "2026-05-06",
-      "reason": "not_on_binance"
-    },
-    "COINX": {
-      "checkedAt": "2026-05-06",
-      "reason": "not_on_binance"
-    },
-    "HOME": {
-      "checkedAt": "2026-05-06",
-      "reason": "not_on_binance"
-    },
-    "LUNA": {
-      "checkedAt": "2026-05-06",
-      "reason": "not_on_binance"
-    },
-    "ZBT": {
       "checkedAt": "2026-05-06",
       "reason": "not_on_binance"
     }
