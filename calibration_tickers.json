@@ -1,12 +1,18 @@
 {
   "tickers": [
     "AAOI",
+    "ACLS",
+    "ALAB",
     "AMD",
+    "APLD",
     "CIEN",
     "CLS",
     "COHR",
+    "COHU",
     "CRDO",
     "DOCN",
+    "FLEX",
+    "FN",
     "FORM",
     "GLW",
     "INTC",
@@ -17,7 +23,6 @@
     "MU",
     "MXL",
     "NBIS",
-    "SEDG",
     "SIMO",
     "SMTC",
     "SNDK",
@@ -26,6 +31,7 @@
     "TSEM",
     "TTMI",
     "UCTT",
+    "VECO",
     "VICR",
     "WDC",
     "NTNX",
@@ -54,12 +60,12 @@
     "CECO",
     "MTZ",
     "POWL",
-    "PRIM",
     "STRL",
     "TPC",
     "VRT",
     "ANAB",
     "CELC",
+    "CGON",
     "DNTH",
     "KOD",
     "NKTR",
@@ -113,6 +119,6 @@
     "SYRE"
   ],
   "source": "tv_screener",
-  "total": 111,
-  "updated_at": "2026-05-06T13:52:21.359Z"
+  "total": 117,
+  "updated_at": "2026-05-06T14:05:04.342Z"
 }
