@@ -41,7 +41,6 @@
     "WIX",
     "GDDY",
     "TEAM",
-    "TRI",
     "NOW",
     "CVLT",
     "PCTY",
@@ -57,7 +56,6 @@
     "CECO",
     "ECG",
     "POWL",
-    "RKLB",
     "STRL",
     "TPC",
     "VRT",
@@ -126,6 +124,6 @@
     "DUOL"
   ],
   "source": "tv_screener",
-  "total": 124,
-  "updated_at": "2026-05-07T14:26:25.114Z"
+  "total": 122,
+  "updated_at": "2026-05-07T14:32:01.104Z"
 }
