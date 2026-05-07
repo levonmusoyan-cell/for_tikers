@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-04T15:53:28.104Z",
+  "updatedAt": "2026-05-07T14:31:59.399Z",
   "tickers": {
     "CABO": {
       "checkedAt": "2026-03-19",
@@ -21,18 +21,6 @@
     "FLY": {
       "checkedAt": "2026-04-03",
       "exchange": "NASDAQ"
-    },
-    "AUGO": {
-      "checkedAt": "2026-04-07",
-      "exchange": "NASDAQ"
-    },
-    "ABVX": {
-      "checkedAt": "2026-04-07",
-      "exchange": "NASDAQ"
-    },
-    "ECG": {
-      "checkedAt": "2026-04-07",
-      "exchange": "NYSE"
     },
     "PSIX": {
       "checkedAt": "2026-04-07",
