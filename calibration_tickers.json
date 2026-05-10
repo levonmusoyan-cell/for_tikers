@@ -15,7 +15,6 @@
     "MNDY",
     "WIX",
     "NICE",
-    "TRI",
     "CDW",
     "CVLT",
     "DUOL",
@@ -101,6 +100,6 @@
     "QTWO"
   ],
   "source": "tv_screener",
-  "total": 99,
-  "updated_at": "2026-05-10T13:35:36.767Z"
+  "total": 98,
+  "updated_at": "2026-05-10T14:03:21.824Z"
 }
