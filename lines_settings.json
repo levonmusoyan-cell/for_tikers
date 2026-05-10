@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-05-10T09:50:22.705Z",
+  "updated_at": "2026-05-10T12:46:16.454Z",
   "source": "twparser_lines_settings_overlay",
   "settings": {
     "crypto": {
@@ -16,9 +16,9 @@
     },
     "stocks": {
       "entry": "Open position",
-      "strikeBuyCall": "Strike Buy Call / Strike Buy Put ~ [ Close Buy Call ] ~ [ Close Buy Put ] ~ [ Close Sell Call_1 ] ~ Position Target_1",
-      "strikeSellCall": "Strike Sell Call ~ [ Close Sell Call_1 ] ~ Position Target_1",
-      "buyPut": "[ Close Sell Call_2 ] ~ [ Close Buy Put ] ~ Close Position",
+      "strikeBuyCall": "Strike Buy Call",
+      "strikeSellCall": "Strike Buy Put",
+      "buyPut": "[ Close Buy Put ] ~ Close Position",
       "year": "ГОД",
       "month": "МЕСЯЦ"
     }
