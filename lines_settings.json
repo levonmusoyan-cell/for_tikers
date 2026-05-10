@@ -1,26 +1,26 @@
 {
   "version": 1,
-  "updated_at": "2026-05-10T09:46:36.473Z",
+  "updated_at": "2026-05-10T09:47:54.853Z",
   "source": "twparser_lines_settings_overlay",
   "settings": {
     "crypto": {
-      "entry": "Open position",
-      "month": "МЕСЯЦ"
+      "entry": "LL Open position",
+      "month": "LL МЕСЯЦ"
     },
     "futures": {
-      "entry": "Open position",
-      "month": "МЕСЯЦ",
-      "strikeCall": "Strike Call",
-      "sellCall": "Sell Call",
-      "close": "Close position"
+      "entry": "LL Open position",
+      "month": "LL МЕСЯЦ",
+      "strikeCall": "LL Strike Call",
+      "sellCall": "LL Sell Call",
+      "close": "LL Close position"
     },
     "stocks": {
-      "entry": "Open position",
-      "strikeBuyCall": "Strike Buy Call / Strike Buy Put ~ [ Close Buy Call ] ~ [ Close Buy Put ] ~ [ Close Sell Call_1 ] ~ Position Target_1",
-      "strikeSellCall": "Strike Sell Call ~ [ Close Sell Call_1 ] ~ Position Target_1",
-      "buyPut": "[ Close Sell Call_2 ] ~ [ Close Buy Put ] ~ Close Position",
-      "year": "ГОД",
-      "month": "МЕСЯЦ"
+      "entry": "LL Open position",
+      "strikeBuyCall": "LL Strike Buy Call / Strike Buy Put ~ [ Close Buy Call ] ~ [ Close Buy Put ] ~ [ Close Sell Call_1 ] ~ Position Target_1",
+      "strikeSellCall": "LL Strike Sell Call ~ [ Close Sell Call_1 ] ~ Position Target_1",
+      "buyPut": "LL [ Close Sell Call_2 ] ~ [ Close Buy Put ] ~ Close Position",
+      "year": "LL ГОД",
+      "month": "LL МЕСЯЦ"
     }
   }
 }
