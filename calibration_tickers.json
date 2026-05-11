@@ -1,6 +1,5 @@
 {
   "tickers": [
-    "MSTR",
     "RBLX",
     "BLSH",
     "MMYT",
@@ -8,15 +7,14 @@
     "ESTC",
     "SPSC",
     "TTAN",
-    "WIX",
     "MNDY",
+    "WIX",
     "TEAM",
-    "NICE",
     "GDDY",
-    "CDW",
+    "NICE",
     "CVLT",
+    "CDW",
     "DUOL",
-    "PCTY",
     "CHKP",
     "WDAY",
     "PAYC",
@@ -24,6 +22,7 @@
     "VRSK",
     "SAP",
     "ACN",
+    "MSTR",
     "ROP",
     "FOUR",
     "BFAM",
@@ -37,7 +36,6 @@
     "TMDX",
     "ZTS",
     "PODD",
-    "LOAR",
     "AXON",
     "SFM",
     "SE",
@@ -67,6 +65,6 @@
     "GPN"
   ],
   "source": "tv_screener",
-  "total": 65,
-  "updated_at": "2026-05-11T13:55:23.918Z"
+  "total": 63,
+  "updated_at": "2026-05-11T14:39:01.086Z"
 }
