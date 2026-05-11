@@ -1,9 +1,11 @@
 {
   "tickers": [
+    "MSTR",
     "RBLX",
     "BLSH",
     "MMYT",
     "DOCU",
+    "ESTC",
     "SPSC",
     "TTAN",
     "WIX",
@@ -22,7 +24,6 @@
     "VRSK",
     "SAP",
     "ACN",
-    "MSTR",
     "ROP",
     "FOUR",
     "BFAM",
@@ -36,15 +37,19 @@
     "TMDX",
     "ZTS",
     "PODD",
-    "KMX",
+    "LOAR",
+    "AXON",
     "SFM",
     "SE",
     "HLNE",
     "AJG",
+    "MSFT",
+    "NFLX",
+    "NVO",
+    "PYPL",
     "BMI",
     "LULU",
     "MOH",
-    "AXON",
     "ABT",
     "BSX",
     "EPAM",
@@ -62,6 +67,6 @@
     "GPN"
   ],
   "source": "tv_screener",
-  "total": 60,
-  "updated_at": "2026-05-11T13:41:54.407Z"
+  "total": 65,
+  "updated_at": "2026-05-11T13:55:23.918Z"
 }
