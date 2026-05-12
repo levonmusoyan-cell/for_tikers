@@ -1,6 +1,6 @@
 {
-  "version": 1,
-  "updated_at": "2026-05-10T15:49:59.133Z",
+  "version": 2,
+  "updated_at": "2026-05-12T19:17:26.377Z",
   "source": "twparser_lines_settings_overlay",
   "settings": {
     "crypto": {
@@ -15,12 +15,45 @@
       "close": "Close position"
     },
     "stocks": {
-      "entry": "Open Position",
-      "strikeBuyCall": "Strike Buy Call",
-      "strikeSellCall": "[ Close Buy Call ] ~ [ Close Buy Put ] ~ Position Target",
-      "buyPut": "[ Close Buy Put ] ~ Close Position",
       "year": "ГОД",
-      "month": "МЕСЯЦ"
+      "month": "МЕСЯЦ",
+      "lines": {
+        "entry": {
+          "label": "Open Position",
+          "offset": 0,
+          "color": "#1B5E20",
+          "style": "dashed",
+          "visible": true
+        },
+        "strikeBuyCall": {
+          "label": "Strike Buy Call",
+          "offset": 1,
+          "color": "#2962FF",
+          "style": "dotted",
+          "visible": true
+        },
+        "strikeBuyPut": {
+          "label": "Strike Buy Put",
+          "offset": -1,
+          "color": "#2962FF",
+          "style": "dotted",
+          "visible": true
+        },
+        "positionTarget": {
+          "label": "[ Close Buy Call ] ~ [ Close Buy Put ] ~ Position Target",
+          "offset": 4,
+          "color": "#2962FF",
+          "style": "dotted",
+          "visible": true
+        },
+        "closePosition": {
+          "label": "[ Close Buy Put ] ~ Close Position",
+          "offset": -2,
+          "color": "#9B2335",
+          "style": "dotted",
+          "visible": true
+        }
+      }
     }
   }
 }
