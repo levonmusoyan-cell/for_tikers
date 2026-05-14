@@ -1,6 +1,5 @@
 {
   "tickers": [
-    "TRI",
     "PAYX",
     "TYL",
     "ROP",
@@ -42,6 +41,6 @@
     "WFC"
   ],
   "source": "tv_screener",
-  "total": 40,
-  "updated_at": "2026-05-14T13:39:57.284Z"
+  "total": 39,
+  "updated_at": "2026-05-14T13:41:34.388Z"
 }
