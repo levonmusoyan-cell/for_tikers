@@ -1,10 +1,13 @@
 {
   "tickers": [
-    "PAYX",
     "TYL",
     "ROP",
     "BRO",
     "AJG",
+    "IBM",
+    "NVO",
+    "PYPL",
+    "VST",
     "LULU",
     "CHTR",
     "ABT",
@@ -34,13 +37,9 @@
     "WING",
     "ZTS",
     "NKE",
-    "NTNX",
-    "ACN",
-    "MMYT",
-    "TEAM",
-    "WFC"
+    "NTNX"
   ],
   "source": "tv_screener",
-  "total": 39,
-  "updated_at": "2026-05-14T13:41:34.388Z"
+  "total": 38,
+  "updated_at": "2026-05-14T14:30:36.203Z"
 }
