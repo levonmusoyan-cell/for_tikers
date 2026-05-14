@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-05-14T12:11:41.810Z",
+  "updated_at": "2026-05-14T12:17:56.397Z",
   "source": "twparser_lines_settings_overlay",
   "settings": {
     "crypto": {
@@ -27,21 +27,21 @@
         "visible": true
       },
       "strikeCall": {
-        "label": "Strike Call",
+        "label": "[ Close Buy Call ] ~ [ Close Buy Put ] ~ Position Target",
         "offset": 0,
-        "color": "#2962FF",
+        "color": "#1B5E20",
         "style": "dotted",
         "visible": true
       },
       "sellCall": {
-        "label": "Sell Call",
+        "label": "Strike Buy Put",
         "offset": 0,
         "color": "#1B5E20",
         "style": "dotted",
         "visible": true
       },
       "close": {
-        "label": "Close position",
+        "label": "[ Close Buy Put ] ~ Close Position",
         "offset": 0,
         "color": "#9B2335",
         "style": "dotted",
