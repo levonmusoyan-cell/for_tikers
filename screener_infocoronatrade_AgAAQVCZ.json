@@ -3,7 +3,7 @@
   "username": "infocoronatrade",
   "screenerId": "AgAAQVCZ",
   "screenerName": "ПАДЕНИЕ 40% И БОЛЕЕ",
-  "savedAt": "2026-05-14T12:03:15.632Z",
+  "savedAt": "2026-05-14T15:30:45.349Z",
   "filters": {
     "columns": [
       "ticker-view",
@@ -33,9 +33,42 @@
     ],
     "filter": [
       {
+        "left": "return_on_equity_fq",
+        "operation": "greater",
+        "right": 0
+      },
+      {
+        "left": "average_volume_30d_calc",
+        "operation": "greater",
+        "right": 500000
+      },
+      {
+        "left": "is_blacklisted",
+        "operation": "equal",
+        "right": false
+      },
+      {
+        "left": "market_cap_basic",
+        "operation": "egreater",
+        "right": 10000000000
+      },
+      {
+        "left": "net_margin_fy",
+        "operation": "greater",
+        "right": 0
+      },
+      {
+        "left": "beta_5_year",
+        "operation": "in_range",
+        "right": [
+          0.5,
+          0.9
+        ]
+      },
+      {
         "left": "Perf.Y",
         "operation": "less",
-        "right": -40
+        "right": -20
       },
       {
         "left": "sector",
@@ -65,6 +98,11 @@
         ]
       },
       {
+        "left": "close",
+        "operation": "egreater",
+        "right": 20
+      },
+      {
         "left": "Volatility.W",
         "operation": "in_range",
         "right": [
@@ -74,44 +112,6 @@
       },
       {
         "left": "debt_to_equity_fq",
-        "operation": "greater",
-        "right": 0
-      },
-      {
-        "left": "return_on_equity_fq",
-        "operation": "greater",
-        "right": 0
-      },
-      {
-        "left": "average_volume_30d_calc",
-        "operation": "greater",
-        "right": 500000
-      },
-      {
-        "left": "beta_5_year",
-        "operation": "in_range",
-        "right": [
-          0.5,
-          0.9
-        ]
-      },
-      {
-        "left": "market_cap_basic",
-        "operation": "egreater",
-        "right": 10000000000
-      },
-      {
-        "left": "close",
-        "operation": "egreater",
-        "right": 40
-      },
-      {
-        "left": "is_blacklisted",
-        "operation": "equal",
-        "right": false
-      },
-      {
-        "left": "net_margin_fy",
         "operation": "greater",
         "right": 0
       }
@@ -304,5 +304,5 @@
       ]
     }
   },
-  "updatedAt": "2026-05-14T12:03:15.632Z"
+  "updatedAt": "2026-05-14T15:30:45.349Z"
 }
