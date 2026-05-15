@@ -1,9 +1,16 @@
 {
   "tickers": [
-    "NFLX",
-    "DOCU",
+    "DXCM",
+    "MDT",
+    "GGAL",
     "BRO",
+    "DOCU",
+    "OKTA",
+    "BLDR",
     "SFM",
+    "NFLX",
+    "PYPL",
+    "MKC",
     "ABT",
     "BFAM",
     "BLSH",
@@ -38,6 +45,6 @@
     "SHOP"
   ],
   "source": "tv_screener",
-  "total": 36,
-  "updated_at": "2026-05-15T13:54:52.314Z"
+  "total": 43,
+  "updated_at": "2026-05-15T14:01:49.544Z"
 }
