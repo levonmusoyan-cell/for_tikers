@@ -3,7 +3,7 @@
   "username": "infocoronatrade",
   "screenerId": "AgAAQVCZ",
   "screenerName": "ПАДЕНИЕ 40% И БОЛЕЕ",
-  "savedAt": "2026-05-14T15:30:45.349Z",
+  "savedAt": "2026-05-15T13:54:13.764Z",
   "filters": {
     "columns": [
       "ticker-view",
@@ -33,42 +33,17 @@
     ],
     "filter": [
       {
-        "left": "return_on_equity_fq",
-        "operation": "greater",
-        "right": 0
-      },
-      {
         "left": "average_volume_30d_calc",
         "operation": "greater",
         "right": 500000
       },
       {
-        "left": "is_blacklisted",
-        "operation": "equal",
-        "right": false
-      },
-      {
-        "left": "market_cap_basic",
-        "operation": "egreater",
-        "right": 10000000000
-      },
-      {
-        "left": "net_margin_fy",
-        "operation": "greater",
-        "right": 0
-      },
-      {
-        "left": "beta_5_year",
+        "left": "price_target_1y",
         "operation": "in_range",
         "right": [
-          0.5,
-          0.9
+          40,
+          100
         ]
-      },
-      {
-        "left": "Perf.Y",
-        "operation": "less",
-        "right": -20
       },
       {
         "left": "sector",
@@ -98,9 +73,47 @@
         ]
       },
       {
+        "left": "is_blacklisted",
+        "operation": "equal",
+        "right": false
+      },
+      {
         "left": "close",
         "operation": "egreater",
-        "right": 20
+        "right": 40
+      },
+      {
+        "left": "market_cap_basic",
+        "operation": "egreater",
+        "right": 7000000000
+      },
+      {
+        "left": "Perf.Y",
+        "operation": "less",
+        "right": -40
+      },
+      {
+        "left": "debt_to_equity_fq",
+        "operation": "greater",
+        "right": 0
+      },
+      {
+        "left": "net_margin_fy",
+        "operation": "greater",
+        "right": 0
+      },
+      {
+        "left": "return_on_equity_fq",
+        "operation": "greater",
+        "right": 0
+      },
+      {
+        "left": "beta_5_year",
+        "operation": "in_range",
+        "right": [
+          0.5,
+          0.9
+        ]
       },
       {
         "left": "Volatility.W",
@@ -109,11 +122,6 @@
           0,
           10
         ]
-      },
-      {
-        "left": "debt_to_equity_fq",
-        "operation": "greater",
-        "right": 0
       }
     ],
     "ignore_unknown_fields": false,
@@ -304,5 +312,5 @@
       ]
     }
   },
-  "updatedAt": "2026-05-14T15:30:45.349Z"
+  "updatedAt": "2026-05-15T13:54:13.764Z"
 }
