@@ -3,7 +3,7 @@
   "username": "infocoronatrade",
   "screenerId": "AgAAQVCZ",
   "screenerName": "ПАДЕНИЕ 40% И БОЛЕЕ",
-  "savedAt": "2026-05-15T14:00:33.282Z",
+  "savedAt": "2026-05-15T14:14:10.233Z",
   "filters": {
     "columns": [
       "ticker-view",
@@ -33,17 +33,34 @@
     ],
     "filter": [
       {
+        "left": "return_on_equity_fq",
+        "operation": "greater",
+        "right": 0
+      },
+      {
+        "left": "market_cap_basic",
+        "operation": "egreater",
+        "right": 5000000000
+      },
+      {
         "left": "average_volume_30d_calc",
         "operation": "greater",
         "right": 500000
       },
       {
-        "left": "price_target_1y",
-        "operation": "in_range",
-        "right": [
-          40,
-          100
-        ]
+        "left": "close",
+        "operation": "egreater",
+        "right": 40
+      },
+      {
+        "left": "net_margin_fy",
+        "operation": "greater",
+        "right": 0
+      },
+      {
+        "left": "is_blacklisted",
+        "operation": "equal",
+        "right": false
       },
       {
         "left": "sector",
@@ -73,34 +90,9 @@
         ]
       },
       {
-        "left": "is_blacklisted",
-        "operation": "equal",
-        "right": false
-      },
-      {
-        "left": "close",
-        "operation": "egreater",
-        "right": 40
-      },
-      {
-        "left": "market_cap_basic",
-        "operation": "egreater",
-        "right": 5000000000
-      },
-      {
         "left": "Perf.Y",
         "operation": "less",
         "right": -30
-      },
-      {
-        "left": "net_margin_fy",
-        "operation": "greater",
-        "right": 0
-      },
-      {
-        "left": "return_on_equity_fq",
-        "operation": "greater",
-        "right": 0
       },
       {
         "left": "beta_5_year",
@@ -108,6 +100,14 @@
         "right": [
           0.5,
           1.5
+        ]
+      },
+      {
+        "left": "price_target_1y",
+        "operation": "in_range",
+        "right": [
+          40,
+          100
         ]
       },
       {
@@ -307,5 +307,5 @@
       ]
     }
   },
-  "updatedAt": "2026-05-15T14:00:33.282Z"
+  "updatedAt": "2026-05-15T14:14:10.233Z"
 }
