@@ -1,25 +1,9 @@
 {
   "tickers": [
-    "CSGP",
-    "DT",
-    "OKTA",
-    "ADP",
-    "TYL",
-    "ROP",
+    "NFLX",
+    "DOCU",
     "BRO",
-    "TW",
-    "MAA",
-    "MRSH",
-    "AJG",
-    "LPLA",
-    "CMCSA",
-    "CHTR",
-    "MKC",
-    "LULU",
-    "TSCO",
-    "GFL",
-    "GPC",
-    "SYK",
+    "SFM",
     "ABT",
     "BFAM",
     "BLSH",
@@ -54,6 +38,6 @@
     "SHOP"
   ],
   "source": "tv_screener",
-  "total": 52,
-  "updated_at": "2026-05-15T13:37:35.064Z"
+  "total": 36,
+  "updated_at": "2026-05-15T13:54:52.314Z"
 }
