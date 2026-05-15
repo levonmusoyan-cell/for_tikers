@@ -1,22 +1,14 @@
 {
   "tickers": [
-    "ADBE",
-    "CRM",
-    "IBM",
-    "MSTR",
     "DXCM",
     "MDT",
-    "NVO",
-    "COIN",
-    "WFC",
-    "META",
-    "NFLX",
     "GGAL",
     "BRO",
     "DOCU",
     "OKTA",
     "BLDR",
     "SFM",
+    "NFLX",
     "PYPL",
     "MKC",
     "ABT",
@@ -53,6 +45,6 @@
     "SHOP"
   ],
   "source": "tv_screener",
-  "total": 51,
-  "updated_at": "2026-05-15T14:12:11.686Z"
+  "total": 43,
+  "updated_at": "2026-05-15T14:15:33.974Z"
 }
