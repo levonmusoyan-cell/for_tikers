@@ -3,7 +3,7 @@
   "username": "infocoronatrade",
   "screenerId": "AgAAQVCZ",
   "screenerName": "ПАДЕНИЕ 40% И БОЛЕЕ",
-  "savedAt": "2026-05-15T13:54:13.764Z",
+  "savedAt": "2026-05-15T14:00:33.282Z",
   "filters": {
     "columns": [
       "ticker-view",
@@ -85,17 +85,12 @@
       {
         "left": "market_cap_basic",
         "operation": "egreater",
-        "right": 7000000000
+        "right": 5000000000
       },
       {
         "left": "Perf.Y",
         "operation": "less",
-        "right": -40
-      },
-      {
-        "left": "debt_to_equity_fq",
-        "operation": "greater",
-        "right": 0
+        "right": -30
       },
       {
         "left": "net_margin_fy",
@@ -112,7 +107,7 @@
         "operation": "in_range",
         "right": [
           0.5,
-          0.9
+          1.5
         ]
       },
       {
@@ -120,7 +115,7 @@
         "operation": "in_range",
         "right": [
           0,
-          10
+          20
         ]
       }
     ],
@@ -312,5 +307,5 @@
       ]
     }
   },
-  "updatedAt": "2026-05-15T13:54:13.764Z"
+  "updatedAt": "2026-05-15T14:00:33.282Z"
 }
