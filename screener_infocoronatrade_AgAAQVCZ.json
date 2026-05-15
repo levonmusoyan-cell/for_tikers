@@ -3,7 +3,7 @@
   "username": "infocoronatrade",
   "screenerId": "AgAAQVCZ",
   "screenerName": "ПАДЕНИЕ 40% И БОЛЕЕ",
-  "savedAt": "2026-05-15T14:14:10.233Z",
+  "savedAt": "2026-05-15T15:46:23.434Z",
   "filters": {
     "columns": [
       "ticker-view",
@@ -33,34 +33,14 @@
     ],
     "filter": [
       {
-        "left": "return_on_equity_fq",
-        "operation": "greater",
-        "right": 0
+        "left": "close",
+        "operation": "egreater",
+        "right": 30
       },
       {
         "left": "market_cap_basic",
         "operation": "egreater",
         "right": 5000000000
-      },
-      {
-        "left": "average_volume_30d_calc",
-        "operation": "greater",
-        "right": 500000
-      },
-      {
-        "left": "close",
-        "operation": "egreater",
-        "right": 40
-      },
-      {
-        "left": "net_margin_fy",
-        "operation": "greater",
-        "right": 0
-      },
-      {
-        "left": "is_blacklisted",
-        "operation": "equal",
-        "right": false
       },
       {
         "left": "sector",
@@ -95,6 +75,24 @@
         "right": -30
       },
       {
+        "left": "is_blacklisted",
+        "operation": "equal",
+        "right": false
+      },
+      {
+        "left": "Volatility.W",
+        "operation": "in_range",
+        "right": [
+          0,
+          20
+        ]
+      },
+      {
+        "left": "net_margin_fy",
+        "operation": "greater",
+        "right": 0
+      },
+      {
         "left": "beta_5_year",
         "operation": "in_range",
         "right": [
@@ -111,12 +109,14 @@
         ]
       },
       {
-        "left": "Volatility.W",
-        "operation": "in_range",
-        "right": [
-          0,
-          20
-        ]
+        "left": "return_on_equity_fq",
+        "operation": "greater",
+        "right": 0
+      },
+      {
+        "left": "average_volume_30d_calc",
+        "operation": "greater",
+        "right": 500000
       }
     ],
     "ignore_unknown_fields": false,
@@ -307,5 +307,5 @@
       ]
     }
   },
-  "updatedAt": "2026-05-15T14:14:10.233Z"
+  "updatedAt": "2026-05-15T15:46:23.434Z"
 }
