@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-05-14T12:17:56.397Z",
+  "updated_at": "2026-05-16T07:50:28.782Z",
   "source": "twparser_lines_settings_overlay",
   "settings": {
     "crypto": {
@@ -16,6 +16,12 @@
         "color": "#1A237E",
         "style": "solid",
         "visible": true
+      },
+      "importSources": {
+        "cryptoLimit": 400,
+        "watchlistLimit": 100,
+        "autoDay": 0,
+        "autoTime": "11:00"
       }
     },
     "futures": {
@@ -27,21 +33,21 @@
         "visible": true
       },
       "strikeCall": {
-        "label": "[ Close Buy Call ] ~ [ Close Buy Put ] ~ Position Target",
+        "label": "Strike Call",
         "offset": 0,
-        "color": "#1B5E20",
+        "color": "#2962FF",
         "style": "dotted",
         "visible": true
       },
       "sellCall": {
-        "label": "Strike Buy Put",
+        "label": "Sell Call",
         "offset": 0,
         "color": "#1B5E20",
         "style": "dotted",
         "visible": true
       },
       "close": {
-        "label": "[ Close Buy Put ] ~ Close Position",
+        "label": "Close position",
         "offset": 0,
         "color": "#9B2335",
         "style": "dotted",
@@ -91,8 +97,8 @@
         },
         "positionTarget": {
           "label": "[ Close Buy Call ] ~ [ Close Buy Put ] ~ Position Target",
-          "offset": 6,
-          "color": "#1B5E20",
+          "offset": 3,
+          "color": "#2962FF",
           "style": "dotted",
           "visible": true
         },
@@ -103,6 +109,13 @@
           "style": "dotted",
           "visible": true
         }
+      },
+      "importSources": {
+        "finvizUrl": "https://finviz.com/screener?v=111&f=cap_largeover,sh_avgvol_o2000,sh_curvol_o1000,sh_opt_option,sh_price_o40,sh_relvol_o0.75,ta_perf_52wdown,ta_volatility_wo2&ft=4",
+        "screenerId": "default",
+        "screenerUsername": null,
+        "stockLimit": 1000,
+        "autoTime": "08:35"
       }
     }
   }
