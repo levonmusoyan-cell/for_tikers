@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-17T16:02:34.596Z",
+  "updatedAt": "2026-05-17T16:02:41.189Z",
   "tickers": {
     "LEO": {
       "checkedAt": "2026-05-05",
@@ -867,6 +867,10 @@
       "reason": "not_on_binance"
     },
     "BNKR": {
+      "checkedAt": "2026-05-17",
+      "reason": "not_on_binance"
+    },
+    "USELESS": {
       "checkedAt": "2026-05-17",
       "reason": "not_on_binance"
     },
