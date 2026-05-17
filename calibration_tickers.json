@@ -1,29 +1,13 @@
 {
   "tickers": [
-    "ALC",
-    "BMRN",
-    "DXCM",
-    "GEHC",
-    "MDT",
-    "ZBH",
     "BSY",
     "CSGP",
     "PEGA",
     "DOCU",
     "OKTA",
-    "IR",
-    "PNR",
-    "TRI",
     "TSCO",
     "CPRT",
     "SFM",
-    "DECK",
-    "ROL",
-    "SWKS",
-    "TRMB",
-    "CHD",
-    "FWONK",
-    "IFF",
     "RYAN",
     "CMG",
     "WING",
@@ -67,6 +51,6 @@
     "MKC"
   ],
   "source": "tv_screener",
-  "total": 65,
-  "updated_at": "2026-05-16T14:00:48.281Z"
+  "total": 49,
+  "updated_at": "2026-05-17T10:43:56.046Z"
 }
