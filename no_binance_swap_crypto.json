@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-10T16:17:35.034Z",
+  "updatedAt": "2026-05-17T16:02:34.596Z",
   "tickers": {
     "LEO": {
       "checkedAt": "2026-05-05",
@@ -848,6 +848,62 @@
     },
     "OPG": {
       "checkedAt": "2026-05-10",
+      "reason": "not_on_binance"
+    },
+    "PROS": {
+      "checkedAt": "2026-05-17",
+      "reason": "not_on_binance"
+    },
+    "IVVON": {
+      "checkedAt": "2026-05-17",
+      "reason": "not_on_binance"
+    },
+    "MUON": {
+      "checkedAt": "2026-05-17",
+      "reason": "not_on_binance"
+    },
+    "ZIG": {
+      "checkedAt": "2026-05-17",
+      "reason": "not_on_binance"
+    },
+    "BNKR": {
+      "checkedAt": "2026-05-17",
+      "reason": "not_on_binance"
+    },
+    "NVDAON": {
+      "checkedAt": "2026-05-17",
+      "reason": "not_on_binance"
+    },
+    "BURN": {
+      "checkedAt": "2026-05-17",
+      "reason": "not_on_binance"
+    },
+    "MRVLX": {
+      "checkedAt": "2026-05-17",
+      "reason": "not_on_binance"
+    },
+    "OSMO": {
+      "checkedAt": "2026-05-17",
+      "reason": "not_on_binance"
+    },
+    "NVDAX": {
+      "checkedAt": "2026-05-17",
+      "reason": "not_on_binance"
+    },
+    "XYO": {
+      "checkedAt": "2026-05-17",
+      "reason": "not_on_binance"
+    },
+    "KAIO": {
+      "checkedAt": "2026-05-17",
+      "reason": "not_on_binance"
+    },
+    "WMTX": {
+      "checkedAt": "2026-05-17",
+      "reason": "not_on_binance"
+    },
+    "COINX": {
+      "checkedAt": "2026-05-17",
       "reason": "not_on_binance"
     }
   }
