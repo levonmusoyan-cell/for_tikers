@@ -4,11 +4,14 @@
     "CSGP",
     "PEGA",
     "DOCU",
-    "DLB",
     "OKTA",
     "TSCO",
     "CPRT",
     "SFM",
+    "MSFT",
+    "MSTR",
+    "META",
+    "NVO",
     "RYAN",
     "CMG",
     "ABT",
@@ -52,6 +55,6 @@
     "MKC"
   ],
   "source": "tv_screener",
-  "total": 50,
-  "updated_at": "2026-05-18T13:37:02.580Z"
+  "total": 53,
+  "updated_at": "2026-05-18T14:25:16.445Z"
 }
