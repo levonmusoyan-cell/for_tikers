@@ -3,7 +3,7 @@
   "username": "infocoronatrade",
   "screenerId": "AgAAQVCZ",
   "screenerName": "ПАДЕНИЕ 40% И БОЛЕЕ",
-  "savedAt": "2026-05-15T15:46:23.434Z",
+  "savedAt": "2026-05-19T11:06:30.450Z",
   "filters": {
     "columns": [
       "ticker-view",
@@ -33,14 +33,63 @@
     ],
     "filter": [
       {
+        "left": "return_on_equity_fq",
+        "operation": "greater",
+        "right": 0
+      },
+      {
+        "left": "is_blacklisted",
+        "operation": "equal",
+        "right": false
+      },
+      {
+        "left": "price_target_1y",
+        "operation": "in_range",
+        "right": [
+          40,
+          100
+        ]
+      },
+      {
+        "left": "average_volume_30d_calc",
+        "operation": "greater",
+        "right": 500000
+      },
+      {
+        "left": "net_margin_fy",
+        "operation": "greater",
+        "right": 0
+      },
+      {
         "left": "close",
         "operation": "egreater",
         "right": 30
       },
       {
+        "left": "Perf.Y",
+        "operation": "less",
+        "right": -30
+      },
+      {
+        "left": "beta_5_year",
+        "operation": "in_range",
+        "right": [
+          0.5,
+          1.5
+        ]
+      },
+      {
         "left": "market_cap_basic",
         "operation": "egreater",
         "right": 5000000000
+      },
+      {
+        "left": "Volatility.W",
+        "operation": "in_range",
+        "right": [
+          0,
+          20
+        ]
       },
       {
         "left": "sector",
@@ -68,55 +117,6 @@
           "Transportation",
           "Utilities"
         ]
-      },
-      {
-        "left": "Perf.Y",
-        "operation": "less",
-        "right": -30
-      },
-      {
-        "left": "is_blacklisted",
-        "operation": "equal",
-        "right": false
-      },
-      {
-        "left": "Volatility.W",
-        "operation": "in_range",
-        "right": [
-          0,
-          20
-        ]
-      },
-      {
-        "left": "net_margin_fy",
-        "operation": "greater",
-        "right": 0
-      },
-      {
-        "left": "beta_5_year",
-        "operation": "in_range",
-        "right": [
-          0.5,
-          1.5
-        ]
-      },
-      {
-        "left": "price_target_1y",
-        "operation": "in_range",
-        "right": [
-          40,
-          100
-        ]
-      },
-      {
-        "left": "return_on_equity_fq",
-        "operation": "greater",
-        "right": 0
-      },
-      {
-        "left": "average_volume_30d_calc",
-        "operation": "greater",
-        "right": 500000
       }
     ],
     "ignore_unknown_fields": false,
@@ -307,5 +307,5 @@
       ]
     }
   },
-  "updatedAt": "2026-05-15T15:46:23.434Z"
+  "updatedAt": "2026-05-19T11:06:30.450Z"
 }
