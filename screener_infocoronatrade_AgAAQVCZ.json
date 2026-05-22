@@ -3,7 +3,7 @@
   "username": "infocoronatrade",
   "screenerId": "AgAAQVCZ",
   "screenerName": "ПАДЕНИЕ 40% И БОЛЕЕ",
-  "savedAt": "2026-05-20T10:38:12.994Z",
+  "savedAt": "2026-05-22T11:07:15.346Z",
   "filters": {
     "columns": [
       "ticker-view",
@@ -33,47 +33,9 @@
     ],
     "filter": [
       {
-        "left": "earnings_per_share_diluted_yoy_growth_ttm",
-        "operation": "greater",
-        "right": 0
-      },
-      {
-        "left": "market_cap_basic",
-        "operation": "egreater",
-        "right": 5000000000
-      },
-      {
-        "left": "beta_5_year",
-        "operation": "greater",
-        "right": 1
-      },
-      {
-        "left": "average_volume_30d_calc",
-        "operation": "greater",
-        "right": 500000
-      },
-      {
-        "left": "total_revenue_yoy_growth_ttm",
+        "left": "net_margin_fy",
         "operation": "greater",
         "right": 5
-      },
-      {
-        "left": "Volatility.W",
-        "operation": "in_range",
-        "right": [
-          0,
-          10
-        ]
-      },
-      {
-        "left": "return_on_equity_fq",
-        "operation": "greater",
-        "right": 10
-      },
-      {
-        "left": "debt_to_equity_fq",
-        "operation": "less",
-        "right": 2
       },
       {
         "left": "Perf.Y",
@@ -81,19 +43,19 @@
         "right": -30
       },
       {
-        "left": "close",
-        "operation": "egreater",
-        "right": 30
-      },
-      {
-        "left": "is_blacklisted",
-        "operation": "equal",
-        "right": false
-      },
-      {
-        "left": "net_margin_fy",
+        "left": "return_on_equity_fq",
         "operation": "greater",
-        "right": 5
+        "right": 10
+      },
+      {
+        "left": "average_volume_30d_calc",
+        "operation": "greater",
+        "right": 500000
+      },
+      {
+        "left": "debt_to_equity_fq",
+        "operation": "less",
+        "right": 2
       },
       {
         "left": "sector",
@@ -121,6 +83,31 @@
           "Transportation",
           "Utilities"
         ]
+      },
+      {
+        "left": "total_revenue_yoy_growth_ttm",
+        "operation": "greater",
+        "right": 5
+      },
+      {
+        "left": "earnings_per_share_diluted_yoy_growth_ttm",
+        "operation": "greater",
+        "right": 0
+      },
+      {
+        "left": "close",
+        "operation": "egreater",
+        "right": 30
+      },
+      {
+        "left": "is_blacklisted",
+        "operation": "equal",
+        "right": false
+      },
+      {
+        "left": "market_cap_basic",
+        "operation": "egreater",
+        "right": 2000000000
       }
     ],
     "ignore_unknown_fields": false,
@@ -311,5 +298,5 @@
       ]
     }
   },
-  "updatedAt": "2026-05-20T10:38:12.994Z"
+  "updatedAt": "2026-05-22T11:07:15.346Z"
 }
