@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-05-24T13:48:03.906Z",
+  "updated_at": "2026-05-24T15:55:45.112Z",
   "source": "twparser_lines_settings_overlay",
   "settings": {
     "crypto": {
@@ -86,14 +86,14 @@
           "offset": 1,
           "color": "#2962FF",
           "style": "dotted",
-          "visible": true
+          "visible": false
         },
         "strikeBuyPut": {
           "label": "Strike Buy Put",
           "offset": -1,
           "color": "#2962FF",
           "style": "dotted",
-          "visible": true
+          "visible": false
         },
         "positionTarget": {
           "label": "[ Close Buy Call ] ~ [ Close Buy Put ] ~ Position Target",
