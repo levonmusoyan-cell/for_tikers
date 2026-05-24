@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-17T16:02:41.189Z",
+  "updatedAt": "2026-05-24T16:01:48.302Z",
   "tickers": {
     "LEO": {
       "checkedAt": "2026-05-05",
@@ -908,6 +908,46 @@
     },
     "COINX": {
       "checkedAt": "2026-05-17",
+      "reason": "not_on_binance"
+    },
+    "NEX": {
+      "checkedAt": "2026-05-24",
+      "reason": "not_on_binance"
+    },
+    "BOBO": {
+      "checkedAt": "2026-05-24",
+      "reason": "not_on_binance"
+    },
+    "MY": {
+      "checkedAt": "2026-05-24",
+      "reason": "not_on_binance"
+    },
+    "ARRR": {
+      "checkedAt": "2026-05-24",
+      "reason": "not_on_binance"
+    },
+    "PEAQ": {
+      "checkedAt": "2026-05-24",
+      "reason": "not_on_binance"
+    },
+    "SERV": {
+      "checkedAt": "2026-05-24",
+      "reason": "not_on_binance"
+    },
+    "RAIL": {
+      "checkedAt": "2026-05-24",
+      "reason": "not_on_binance"
+    },
+    "KNTQ": {
+      "checkedAt": "2026-05-24",
+      "reason": "not_on_binance"
+    },
+    "ALEO": {
+      "checkedAt": "2026-05-24",
+      "reason": "not_on_binance"
+    },
+    "CARDS": {
+      "checkedAt": "2026-05-24",
       "reason": "not_on_binance"
     }
   }
