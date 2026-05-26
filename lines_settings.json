@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-05-24T17:35:59.255Z",
+  "updated_at": "2026-05-26T11:44:23.829Z",
   "source": "twparser_lines_settings_overlay",
   "settings": {
     "crypto": {
@@ -77,6 +77,8 @@
         "entry": {
           "label": "Open Position",
           "offset": 0,
+          "offsetPercent": 0,
+          "unit": "strikes",
           "color": "#1B5E20",
           "style": "dashed",
           "visible": true
@@ -84,6 +86,8 @@
         "strikeBuyCall": {
           "label": "Strike Buy Call",
           "offset": 1,
+          "offsetPercent": 1,
+          "unit": "strikes",
           "color": "#2962FF",
           "style": "dotted",
           "visible": false
@@ -91,6 +95,8 @@
         "strikeBuyPut": {
           "label": "Strike Buy Put",
           "offset": -1,
+          "offsetPercent": -1,
+          "unit": "strikes",
           "color": "#2962FF",
           "style": "dotted",
           "visible": false
@@ -98,6 +104,8 @@
         "positionTarget": {
           "label": "[ Close Buy Call ] ~ [ Close Buy Put ] ~ Position Target",
           "offset": 3,
+          "offsetPercent": 30,
+          "unit": "percent",
           "color": "#2962FF",
           "style": "dotted",
           "visible": true
@@ -105,6 +113,8 @@
         "closePosition": {
           "label": "[ Close Buy Put ] ~ Close Position",
           "offset": -2,
+          "offsetPercent": -15,
+          "unit": "percent",
           "color": "#9B2335",
           "style": "dotted",
           "visible": true
