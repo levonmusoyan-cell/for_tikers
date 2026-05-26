@@ -3,7 +3,7 @@
   "username": "infocoronatrade",
   "screenerId": "AgAAQVCZ",
   "screenerName": "ПАДЕНИЕ 40% И БОЛЕЕ",
-  "savedAt": "2026-05-22T11:07:15.346Z",
+  "savedAt": "2026-05-26T12:21:59.450Z",
   "filters": {
     "columns": [
       "ticker-view",
@@ -33,29 +33,14 @@
     ],
     "filter": [
       {
-        "left": "net_margin_fy",
-        "operation": "greater",
-        "right": 5
-      },
-      {
-        "left": "Perf.Y",
-        "operation": "less",
-        "right": -30
-      },
-      {
-        "left": "return_on_equity_fq",
-        "operation": "greater",
-        "right": 10
-      },
-      {
         "left": "average_volume_30d_calc",
         "operation": "greater",
-        "right": 500000
+        "right": 400000
       },
       {
-        "left": "debt_to_equity_fq",
-        "operation": "less",
-        "right": 2
+        "left": "earnings_per_share_diluted_yoy_growth_ttm",
+        "operation": "greater",
+        "right": 0
       },
       {
         "left": "sector",
@@ -85,29 +70,44 @@
         ]
       },
       {
-        "left": "total_revenue_yoy_growth_ttm",
+        "left": "return_on_equity_fq",
         "operation": "greater",
         "right": 5
-      },
-      {
-        "left": "earnings_per_share_diluted_yoy_growth_ttm",
-        "operation": "greater",
-        "right": 0
-      },
-      {
-        "left": "close",
-        "operation": "egreater",
-        "right": 30
-      },
-      {
-        "left": "is_blacklisted",
-        "operation": "equal",
-        "right": false
       },
       {
         "left": "market_cap_basic",
         "operation": "egreater",
         "right": 2000000000
+      },
+      {
+        "left": "close",
+        "operation": "egreater",
+        "right": 10
+      },
+      {
+        "left": "total_revenue_yoy_growth_ttm",
+        "operation": "greater",
+        "right": 1
+      },
+      {
+        "left": "Perf.Y",
+        "operation": "less",
+        "right": -40
+      },
+      {
+        "left": "debt_to_equity_fq",
+        "operation": "less",
+        "right": 2
+      },
+      {
+        "left": "net_margin_fy",
+        "operation": "greater",
+        "right": 1
+      },
+      {
+        "left": "is_blacklisted",
+        "operation": "equal",
+        "right": false
       }
     ],
     "ignore_unknown_fields": false,
@@ -298,5 +298,5 @@
       ]
     }
   },
-  "updatedAt": "2026-05-22T11:07:15.346Z"
+  "updatedAt": "2026-05-26T12:21:59.450Z"
 }
