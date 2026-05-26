@@ -27,13 +27,14 @@
     "NVO",
     "CPRT",
     "SFM",
+    "DASH",
+    "ONON",
     "V",
     "XP",
     "SHAK",
     "LRN",
     "MORN",
     "FDS",
-    "ONON",
     "TMDX",
     "HLNE",
     "TTAN",
@@ -82,6 +83,6 @@
     "ADBE"
   ],
   "source": "tv_screener",
-  "total": 80,
-  "updated_at": "2026-05-26T15:06:09.901Z"
+  "total": 81,
+  "updated_at": "2026-05-26T15:13:59.083Z"
 }
