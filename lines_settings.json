@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-05-26T13:49:13.628Z",
+  "updated_at": "2026-05-26T14:43:38.662Z",
   "source": "twparser_lines_settings_overlay",
   "settings": {
     "crypto": {
@@ -125,7 +125,7 @@
         "screenerId": "AgAAQVCZ",
         "screenerUsername": "infocoronatrade",
         "stockLimit": 1000,
-        "autoTime": "09:00"
+        "autoTime": "10:00"
       }
     }
   }
