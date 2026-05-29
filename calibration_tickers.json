@@ -1,5 +1,6 @@
 {
   "tickers": [
+    "NOW",
     "TTD",
     "TOST",
     "EXLS",
@@ -7,7 +8,6 @@
     "ETOR",
     "LIF",
     "DUOL",
-    "NOW",
     "CHKP",
     "WDAY",
     "PAYC",
@@ -16,6 +16,11 @@
     "SAP",
     "ACN",
     "ADP",
+    "ADSK",
+    "GRAB",
+    "INFY",
+    "MSFT",
+    "PATH",
     "PAY",
     "EVTC",
     "EFX",
@@ -27,8 +32,13 @@
     "RLI",
     "TW",
     "MKTX",
+    "MDT",
+    "NVO",
     "INSP",
     "TMDX",
+    "META",
+    "VICI",
+    "XP",
     "SFM",
     "LRN",
     "NTNX",
@@ -86,6 +96,6 @@
     "Z"
   ],
   "source": "tv_screener",
-  "total": 84,
-  "updated_at": "2026-05-29T14:20:37.600Z"
+  "total": 94,
+  "updated_at": "2026-05-29T14:32:28.135Z"
 }
