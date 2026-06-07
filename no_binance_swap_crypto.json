@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-24T16:01:48.302Z",
+  "updatedAt": "2026-06-07T16:08:39.737Z",
   "tickers": {
     "LEO": {
       "checkedAt": "2026-05-05",
@@ -948,6 +948,170 @@
     },
     "CARDS": {
       "checkedAt": "2026-05-24",
+      "reason": "not_on_binance"
+    },
+    "B": {
+      "checkedAt": "2026-06-07",
+      "reason": "not_on_binance"
+    },
+    "TBLLX": {
+      "checkedAt": "2026-06-07",
+      "reason": "not_on_binance"
+    },
+    "AAPLX": {
+      "checkedAt": "2026-06-07",
+      "reason": "not_on_binance"
+    },
+    "QQQX": {
+      "checkedAt": "2026-06-07",
+      "reason": "not_on_binance"
+    },
+    "INTCX": {
+      "checkedAt": "2026-06-07",
+      "reason": "not_on_binance"
+    },
+    "BTW": {
+      "checkedAt": "2026-06-07",
+      "reason": "not_on_binance"
+    },
+    "HOODX": {
+      "checkedAt": "2026-06-07",
+      "reason": "not_on_binance"
+    },
+    "GLDX": {
+      "checkedAt": "2026-06-07",
+      "reason": "not_on_binance"
+    },
+    "MSFTX": {
+      "checkedAt": "2026-06-07",
+      "reason": "not_on_binance"
+    },
+    "METAX": {
+      "checkedAt": "2026-06-07",
+      "reason": "not_on_binance"
+    },
+    "CSCOX": {
+      "checkedAt": "2026-06-07",
+      "reason": "not_on_binance"
+    },
+    "MSTRX": {
+      "checkedAt": "2026-06-07",
+      "reason": "not_on_binance"
+    },
+    "PLTRX": {
+      "checkedAt": "2026-06-07",
+      "reason": "not_on_binance"
+    },
+    "VTX": {
+      "checkedAt": "2026-06-07",
+      "reason": "not_on_binance"
+    },
+    "LINX": {
+      "checkedAt": "2026-06-07",
+      "reason": "not_on_binance"
+    },
+    "KOX": {
+      "checkedAt": "2026-06-07",
+      "reason": "not_on_binance"
+    },
+    "BP": {
+      "checkedAt": "2026-06-07",
+      "reason": "not_on_binance"
+    },
+    "IEMGX": {
+      "checkedAt": "2026-06-07",
+      "reason": "not_on_binance"
+    },
+    "PFEX": {
+      "checkedAt": "2026-06-07",
+      "reason": "not_on_binance"
+    },
+    "IJRX": {
+      "checkedAt": "2026-06-07",
+      "reason": "not_on_binance"
+    },
+    "ALLO": {
+      "checkedAt": "2026-06-07",
+      "reason": "not_on_binance"
+    },
+    "ORCLX": {
+      "checkedAt": "2026-06-07",
+      "reason": "not_on_binance"
+    },
+    "MAX": {
+      "checkedAt": "2026-06-07",
+      "reason": "not_on_binance"
+    },
+    "GSX": {
+      "checkedAt": "2026-06-07",
+      "reason": "not_on_binance"
+    },
+    "AZNX": {
+      "checkedAt": "2026-06-07",
+      "reason": "not_on_binance"
+    },
+    "LBT": {
+      "checkedAt": "2026-06-07",
+      "reason": "not_on_binance"
+    },
+    "OMI": {
+      "checkedAt": "2026-06-07",
+      "reason": "not_on_binance"
+    },
+    "SCHFX": {
+      "checkedAt": "2026-06-07",
+      "reason": "not_on_binance"
+    },
+    "VTIX": {
+      "checkedAt": "2026-06-07",
+      "reason": "not_on_binance"
+    },
+    "VX": {
+      "checkedAt": "2026-06-07",
+      "reason": "not_on_binance"
+    },
+    "APPX": {
+      "checkedAt": "2026-06-07",
+      "reason": "not_on_binance"
+    },
+    "DIEM": {
+      "checkedAt": "2026-06-07",
+      "reason": "not_on_binance"
+    },
+    "AMZNX": {
+      "checkedAt": "2026-06-07",
+      "reason": "not_on_binance"
+    },
+    "PGX": {
+      "checkedAt": "2026-06-07",
+      "reason": "not_on_binance"
+    },
+    "XOMX": {
+      "checkedAt": "2026-06-07",
+      "reason": "not_on_binance"
+    },
+    "PURR": {
+      "checkedAt": "2026-06-07",
+      "reason": "not_on_binance"
+    },
+    "HONX": {
+      "checkedAt": "2026-06-07",
+      "reason": "not_on_binance"
+    },
+    "UP": {
+      "checkedAt": "2026-06-07",
+      "reason": "not_on_binance"
+    },
+    "ABBVX": {
+      "checkedAt": "2026-06-07",
+      "reason": "not_on_binance"
+    },
+    "TQQQX": {
+      "checkedAt": "2026-06-07",
+      "reason": "not_on_binance"
+    },
+    "BRK.BX": {
+      "checkedAt": "2026-06-07",
       "reason": "not_on_binance"
     }
   }
