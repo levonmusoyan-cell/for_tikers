@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-07T16:08:39.737Z",
+  "updatedAt": "2026-06-14T16:02:35.902Z",
   "tickers": {
     "LEO": {
       "checkedAt": "2026-05-05",
@@ -1112,6 +1112,34 @@
     },
     "BRK.BX": {
       "checkedAt": "2026-06-07",
+      "reason": "not_on_binance"
+    },
+    "GCOIN": {
+      "checkedAt": "2026-06-14",
+      "reason": "not_on_binance"
+    },
+    "CRWDX": {
+      "checkedAt": "2026-06-14",
+      "reason": "not_on_binance"
+    },
+    "EWGX": {
+      "checkedAt": "2026-06-14",
+      "reason": "not_on_binance"
+    },
+    "SOXXX": {
+      "checkedAt": "2026-06-14",
+      "reason": "not_on_binance"
+    },
+    "COPXX": {
+      "checkedAt": "2026-06-14",
+      "reason": "not_on_binance"
+    },
+    "AIH": {
+      "checkedAt": "2026-06-14",
+      "reason": "not_on_binance"
+    },
+    "HDX": {
+      "checkedAt": "2026-06-14",
       "reason": "not_on_binance"
     }
   }
