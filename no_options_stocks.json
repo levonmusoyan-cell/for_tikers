@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-20T17:38:43.834Z",
+  "updatedAt": "2026-06-19T18:36:45.025Z",
   "tickers": {
     "CABO": {
       "checkedAt": "2026-03-19",
@@ -64,10 +64,6 @@
     },
     "VTVT": {
       "checkedAt": "2026-04-08",
-      "exchange": "NASDAQ"
-    },
-    "TRI": {
-      "checkedAt": "2026-05-04",
       "exchange": "NASDAQ"
     },
     "MKC.V": {
