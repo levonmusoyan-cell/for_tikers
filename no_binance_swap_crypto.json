@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-14T16:02:35.902Z",
+  "updatedAt": "2026-06-21T16:03:28.869Z",
   "tickers": {
     "LEO": {
       "checkedAt": "2026-05-05",
@@ -1140,6 +1140,38 @@
     },
     "HDX": {
       "checkedAt": "2026-06-14",
+      "reason": "not_on_binance"
+    },
+    "GRAM": {
+      "checkedAt": "2026-06-21",
+      "reason": "not_on_binance"
+    },
+    "RE": {
+      "checkedAt": "2026-06-21",
+      "reason": "not_on_binance"
+    },
+    "O": {
+      "checkedAt": "2026-06-21",
+      "reason": "not_on_binance"
+    },
+    "SHX": {
+      "checkedAt": "2026-06-21",
+      "reason": "not_on_binance"
+    },
+    "CVXX": {
+      "checkedAt": "2026-06-21",
+      "reason": "not_on_binance"
+    },
+    "ANTFUN": {
+      "checkedAt": "2026-06-21",
+      "reason": "not_on_binance"
+    },
+    "ASTEROID": {
+      "checkedAt": "2026-06-21",
+      "reason": "not_on_binance"
+    },
+    "TONXX": {
+      "checkedAt": "2026-06-21",
       "reason": "not_on_binance"
     }
   }
