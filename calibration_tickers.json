@@ -6,7 +6,6 @@
     "MNDY",
     "NOW",
     "PAYC",
-    "PTC",
     "SPOT",
     "WDAY",
     "TOST",
@@ -109,10 +108,10 @@
     "VICI",
     "XP",
     "ZG",
-    "MSTR",
-    "NQU2026"
+    "NQU2026",
+    "PTC"
   ],
   "source": "tv_screener",
-  "total": 111,
-  "updated_at": "2026-06-27T15:13:14.254Z"
+  "total": 110,
+  "updated_at": "2026-06-28T15:10:27.363Z"
 }
