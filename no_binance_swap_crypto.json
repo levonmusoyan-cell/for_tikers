@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-28T16:04:49.334Z",
+  "updatedAt": "2026-06-28T16:05:58.881Z",
   "tickers": {
     "LEO": {
       "checkedAt": "2026-05-05",
@@ -1206,7 +1206,15 @@
       "checkedAt": "2026-06-21",
       "reason": "not_on_binance"
     },
+    "KAITO": {
+      "checkedAt": "2026-06-28",
+      "reason": "not_on_binance"
+    },
     "DATA": {
+      "checkedAt": "2026-06-28",
+      "reason": "not_on_binance"
+    },
+    "AWE": {
       "checkedAt": "2026-06-28",
       "reason": "not_on_binance"
     },
