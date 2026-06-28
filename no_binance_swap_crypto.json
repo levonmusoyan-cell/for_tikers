@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-21T16:05:35.309Z",
+  "updatedAt": "2026-06-28T16:04:49.334Z",
   "tickers": {
     "LEO": {
       "checkedAt": "2026-05-05",
@@ -1204,6 +1204,42 @@
     },
     "TONXX": {
       "checkedAt": "2026-06-21",
+      "reason": "not_on_binance"
+    },
+    "DATA": {
+      "checkedAt": "2026-06-28",
+      "reason": "not_on_binance"
+    },
+    "SYN": {
+      "checkedAt": "2026-06-28",
+      "reason": "not_on_binance"
+    },
+    "SLX": {
+      "checkedAt": "2026-06-28",
+      "reason": "not_on_binance"
+    },
+    "MANTA": {
+      "checkedAt": "2026-06-28",
+      "reason": "not_on_binance"
+    },
+    "SPCXB": {
+      "checkedAt": "2026-06-28",
+      "reason": "not_on_binance"
+    },
+    "ARX": {
+      "checkedAt": "2026-06-28",
+      "reason": "not_on_binance"
+    },
+    "XPIN": {
+      "checkedAt": "2026-06-28",
+      "reason": "not_on_binance"
+    },
+    "UNHX": {
+      "checkedAt": "2026-06-28",
+      "reason": "not_on_binance"
+    },
+    "GMEX": {
+      "checkedAt": "2026-06-28",
       "reason": "not_on_binance"
     }
   }
