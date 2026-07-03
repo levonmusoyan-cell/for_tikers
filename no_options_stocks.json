@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-19T18:36:45.025Z",
+  "updatedAt": "2026-07-03T06:40:44.584Z",
   "tickers": {
     "CABO": {
       "checkedAt": "2026-03-19",
@@ -72,6 +72,14 @@
     },
     "NUTX": {
       "checkedAt": "2026-05-20",
+      "exchange": "NASDAQ"
+    },
+    "MANE": {
+      "checkedAt": "2026-07-03",
+      "exchange": "NYSE"
+    },
+    "CDNL": {
+      "checkedAt": "2026-07-03",
       "exchange": "NASDAQ"
     }
   }
