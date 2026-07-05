@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-28T16:05:58.881Z",
+  "updatedAt": "2026-07-05T16:02:48.411Z",
   "tickers": {
     "LEO": {
       "checkedAt": "2026-05-05",
@@ -1248,6 +1248,22 @@
     },
     "GMEX": {
       "checkedAt": "2026-06-28",
+      "reason": "not_on_binance"
+    },
+    "UZDT": {
+      "checkedAt": "2026-07-05",
+      "reason": "not_on_binance"
+    },
+    "ANSEM": {
+      "checkedAt": "2026-07-05",
+      "reason": "not_on_binance"
+    },
+    "PRESPCX": {
+      "checkedAt": "2026-07-05",
+      "reason": "not_on_binance"
+    },
+    "SATAX": {
+      "checkedAt": "2026-07-05",
       "reason": "not_on_binance"
     }
   }
