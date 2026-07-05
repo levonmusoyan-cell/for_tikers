@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-05T16:02:48.411Z",
+  "updatedAt": "2026-07-05T16:05:38.239Z",
   "tickers": {
     "LEO": {
       "checkedAt": "2026-05-05",
@@ -1250,6 +1250,22 @@
       "checkedAt": "2026-06-28",
       "reason": "not_on_binance"
     },
+    "LIT": {
+      "checkedAt": "2026-07-05",
+      "reason": "not_on_binance"
+    },
+    "FARTCOIN": {
+      "checkedAt": "2026-07-05",
+      "reason": "not_on_binance"
+    },
+    "DYDX": {
+      "checkedAt": "2026-07-05",
+      "reason": "not_on_binance"
+    },
+    "MET": {
+      "checkedAt": "2026-07-05",
+      "reason": "not_on_binance"
+    },
     "UZDT": {
       "checkedAt": "2026-07-05",
       "reason": "not_on_binance"
@@ -1259,6 +1275,10 @@
       "reason": "not_on_binance"
     },
     "PRESPCX": {
+      "checkedAt": "2026-07-05",
+      "reason": "not_on_binance"
+    },
+    "GPS": {
       "checkedAt": "2026-07-05",
       "reason": "not_on_binance"
     },
