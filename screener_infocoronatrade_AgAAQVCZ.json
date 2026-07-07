@@ -3,7 +3,7 @@
   "username": "infocoronatrade",
   "screenerId": "AgAAQVCZ",
   "screenerName": "ПАДЕНИЕ 40% И БОЛЕЕ",
-  "savedAt": "2026-05-29T13:11:45.252Z",
+  "savedAt": "2026-07-07T16:53:42.400Z",
   "filters": {
     "columns": [
       "ticker-view",
@@ -33,24 +33,42 @@
     ],
     "filter": [
       {
+        "left": "Perf.Y",
+        "operation": "less",
+        "right": -30
+      },
+      {
+        "left": "net_margin_fy",
+        "operation": "greater",
+        "right": 5
+      },
+      {
+        "left": "market_cap_basic",
+        "operation": "egreater",
+        "right": 500000
+      },
+      {
+        "left": "total_revenue_yoy_growth_ttm",
+        "operation": "greater",
+        "right": 0
+      },
+      {
+        "left": "Volatility.M",
+        "operation": "in_range",
+        "right": [
+          1,
+          20
+        ]
+      },
+      {
         "left": "average_volume_30d_calc",
         "operation": "greater",
         "right": 500000
       },
       {
-        "left": "earnings_per_share_diluted_yoy_growth_ttm",
-        "operation": "greater",
-        "right": 0
-      },
-      {
-        "left": "debt_to_equity_fq",
-        "operation": "less",
-        "right": 2
-      },
-      {
         "left": "close",
         "operation": "egreater",
-        "right": 20
+        "right": 10
       },
       {
         "left": "sector",
@@ -80,22 +98,9 @@
         ]
       },
       {
-        "left": "average_volume_30d_calc",
-        "operation": "greater",
-        "right": 500000
-      },
-      {
-        "left": "market_cap_basic",
-        "operation": "egreater",
-        "right": 1000000000
-      },
-      {
-        "left": "Volatility.M",
-        "operation": "in_range",
-        "right": [
-          2,
-          30
-        ]
+        "left": "debt_to_equity_fq",
+        "operation": "less",
+        "right": 2
       },
       {
         "left": "is_blacklisted",
@@ -103,22 +108,7 @@
         "right": false
       },
       {
-        "left": "net_margin_fy",
-        "operation": "greater",
-        "right": 5
-      },
-      {
-        "left": "Perf.Y",
-        "operation": "less",
-        "right": -30
-      },
-      {
         "left": "return_on_equity_fq",
-        "operation": "greater",
-        "right": 10
-      },
-      {
-        "left": "total_revenue_yoy_growth_ttm",
         "operation": "greater",
         "right": 5
       }
@@ -311,5 +301,5 @@
       ]
     }
   },
-  "updatedAt": "2026-05-29T13:11:45.252Z"
+  "updatedAt": "2026-07-07T16:53:42.400Z"
 }
