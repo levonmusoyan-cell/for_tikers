@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-03T06:40:44.584Z",
+  "updatedAt": "2026-07-07T17:05:30.456Z",
   "tickers": {
     "CABO": {
       "checkedAt": "2026-03-19",
@@ -81,6 +81,10 @@
     "CDNL": {
       "checkedAt": "2026-07-03",
       "exchange": "NASDAQ"
+    },
+    "OTF": {
+      "checkedAt": "2026-07-07",
+      "exchange": "NYSE"
     }
   }
 }
