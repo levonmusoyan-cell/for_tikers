@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-05T16:05:38.239Z",
+  "updatedAt": "2026-07-12T16:03:27.794Z",
   "tickers": {
     "LEO": {
       "checkedAt": "2026-05-05",
@@ -1284,6 +1284,38 @@
     },
     "SATAX": {
       "checkedAt": "2026-07-05",
+      "reason": "not_on_binance"
+    },
+    "DEL": {
+      "checkedAt": "2026-07-12",
+      "reason": "not_on_binance"
+    },
+    "CASHCAT": {
+      "checkedAt": "2026-07-12",
+      "reason": "not_on_binance"
+    },
+    "MUB": {
+      "checkedAt": "2026-07-12",
+      "reason": "not_on_binance"
+    },
+    "ZBU": {
+      "checkedAt": "2026-07-12",
+      "reason": "not_on_binance"
+    },
+    "AVGOX": {
+      "checkedAt": "2026-07-12",
+      "reason": "not_on_binance"
+    },
+    "SNDKB": {
+      "checkedAt": "2026-07-12",
+      "reason": "not_on_binance"
+    },
+    "SKHYX": {
+      "checkedAt": "2026-07-12",
+      "reason": "not_on_binance"
+    },
+    "NLRX": {
+      "checkedAt": "2026-07-12",
       "reason": "not_on_binance"
     }
   }
