@@ -71,7 +71,6 @@
     "KTOS",
     "PNR",
     "PRIM",
-    "OTF",
     "QFIN",
     "BRO",
     "HLNE",
@@ -152,6 +151,6 @@
     "ASTS"
   ],
   "source": "tv_screener",
-  "total": 150,
-  "updated_at": "2026-07-13T16:16:51.869Z"
+  "total": 149,
+  "updated_at": "2026-07-13T16:30:36.661Z"
 }
