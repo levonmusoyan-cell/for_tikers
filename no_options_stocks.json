@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-07T17:05:30.456Z",
+  "updatedAt": "2026-07-15T15:14:46.368Z",
   "tickers": {
     "CABO": {
       "checkedAt": "2026-03-19",
@@ -85,6 +85,14 @@
     "OTF": {
       "checkedAt": "2026-07-07",
       "exchange": "NYSE"
+    },
+    "AAA": {
+      "checkedAt": "2026-07-15",
+      "exchange": "AMEX"
+    },
+    "FFND": {
+      "checkedAt": "2026-07-15",
+      "exchange": "AMEX"
     }
   }
 }
