@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-15T15:14:46.368Z",
+  "updatedAt": "2026-07-16T12:43:53.540Z",
   "tickers": {
     "CABO": {
       "checkedAt": "2026-03-19",
@@ -93,6 +93,10 @@
     "FFND": {
       "checkedAt": "2026-07-15",
       "exchange": "AMEX"
+    },
+    "KRUS": {
+      "checkedAt": "2026-07-16",
+      "exchange": "NASDAQ"
     }
   }
 }
