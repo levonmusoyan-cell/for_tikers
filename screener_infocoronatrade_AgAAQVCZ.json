@@ -3,7 +3,7 @@
   "username": "infocoronatrade",
   "screenerId": "AgAAQVCZ",
   "screenerName": "ПАДЕНИЕ 40% И БОЛЕЕ",
-  "savedAt": "2026-07-07T16:53:42.400Z",
+  "savedAt": "2026-07-25T19:46:01.176Z",
   "filters": {
     "columns": [
       "ticker-view",
@@ -26,49 +26,36 @@
       "Perf.10Y",
       "Perf.All",
       "Volatility.W",
-      "Volatility.M",
-      "sector.tr",
-      "market",
-      "sector"
+      "Volatility.M"
     ],
     "filter": [
       {
-        "left": "Perf.Y",
-        "operation": "less",
-        "right": -30
+        "left": "close",
+        "operation": "egreater",
+        "right": 20
       },
       {
-        "left": "net_margin_fy",
-        "operation": "greater",
-        "right": 5
+        "left": "is_blacklisted",
+        "operation": "equal",
+        "right": false
+      },
+      {
+        "left": "beta_5_year",
+        "operation": "in_range",
+        "right": [
+          1.1,
+          2
+        ]
+      },
+      {
+        "left": "debt_to_equity_fq",
+        "operation": "less",
+        "right": 2
       },
       {
         "left": "market_cap_basic",
         "operation": "egreater",
-        "right": 500000
-      },
-      {
-        "left": "total_revenue_yoy_growth_ttm",
-        "operation": "greater",
-        "right": 0
-      },
-      {
-        "left": "Volatility.M",
-        "operation": "in_range",
-        "right": [
-          1,
-          20
-        ]
-      },
-      {
-        "left": "average_volume_30d_calc",
-        "operation": "greater",
-        "right": 500000
-      },
-      {
-        "left": "close",
-        "operation": "egreater",
-        "right": 10
+        "right": 300000000
       },
       {
         "left": "sector",
@@ -98,19 +85,17 @@
         ]
       },
       {
-        "left": "debt_to_equity_fq",
-        "operation": "less",
-        "right": 2
-      },
-      {
-        "left": "is_blacklisted",
-        "operation": "equal",
-        "right": false
-      },
-      {
-        "left": "return_on_equity_fq",
+        "left": "average_volume_30d_calc",
         "operation": "greater",
-        "right": 5
+        "right": 2000000
+      },
+      {
+        "left": "Volatility.M",
+        "operation": "in_range",
+        "right": [
+          5,
+          20
+        ]
       }
     ],
     "ignore_unknown_fields": false,
@@ -301,5 +286,5 @@
       ]
     }
   },
-  "updatedAt": "2026-07-07T16:53:42.400Z"
+  "updatedAt": "2026-07-25T19:46:01.176Z"
 }
