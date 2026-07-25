@@ -3,7 +3,7 @@
   "username": "infocoronatrade",
   "screenerId": "AgAAQVCZ",
   "screenerName": "ПАДЕНИЕ 40% И БОЛЕЕ",
-  "savedAt": "2026-07-25T19:46:48.351Z",
+  "savedAt": "2026-07-25T19:52:36.562Z",
   "filters": {
     "columns": [
       "ticker-view",
@@ -30,14 +30,37 @@
     ],
     "filter": [
       {
-        "left": "close",
+        "left": "market_cap_basic",
         "operation": "egreater",
-        "right": 20
+        "right": 300000000
       },
       {
         "left": "is_blacklisted",
         "operation": "equal",
         "right": false
+      },
+      {
+        "left": "debt_to_equity_fq",
+        "operation": "less",
+        "right": 2
+      },
+      {
+        "left": "Volatility.M",
+        "operation": "in_range",
+        "right": [
+          5,
+          20
+        ]
+      },
+      {
+        "left": "average_volume_30d_calc",
+        "operation": "greater",
+        "right": 2000000
+      },
+      {
+        "left": "close",
+        "operation": "egreater",
+        "right": 20
       },
       {
         "left": "beta_5_year",
@@ -46,16 +69,6 @@
           1.1,
           2
         ]
-      },
-      {
-        "left": "debt_to_equity_fq",
-        "operation": "less",
-        "right": 2
-      },
-      {
-        "left": "market_cap_basic",
-        "operation": "egreater",
-        "right": 300000000
       },
       {
         "left": "sector",
@@ -82,19 +95,6 @@
           "Technology Services",
           "Transportation",
           "Utilities"
-        ]
-      },
-      {
-        "left": "average_volume_30d_calc",
-        "operation": "greater",
-        "right": 2000000
-      },
-      {
-        "left": "Volatility.M",
-        "operation": "in_range",
-        "right": [
-          5,
-          20
         ]
       }
     ],
@@ -286,5 +286,5 @@
       ]
     }
   },
-  "updatedAt": "2026-07-25T19:46:48.351Z"
+  "updatedAt": "2026-07-25T19:52:36.562Z"
 }
