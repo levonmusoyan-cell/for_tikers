@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-19T17:38:39.208Z",
+  "updatedAt": "2026-07-26T17:01:37.946Z",
   "tickers": {
     "LEO": {
       "checkedAt": "2026-07-19",
@@ -655,7 +655,7 @@
       "reason": "not_on_binance"
     },
     "SN51": {
-      "checkedAt": "2026-05-10",
+      "checkedAt": "2026-07-26",
       "reason": "not_on_binance"
     },
     "DGB": {
@@ -727,7 +727,7 @@
       "reason": "not_on_binance"
     },
     "XNO": {
-      "checkedAt": "2026-05-10",
+      "checkedAt": "2026-07-26",
       "reason": "not_on_binance"
     },
     "XUSD": {
@@ -1396,6 +1396,34 @@
     },
     "BR": {
       "checkedAt": "2026-07-19",
+      "reason": "not_on_binance"
+    },
+    "LDO": {
+      "checkedAt": "2026-07-26",
+      "reason": "not_on_binance"
+    },
+    "AKE": {
+      "checkedAt": "2026-07-26",
+      "reason": "not_on_binance"
+    },
+    "DELLX": {
+      "checkedAt": "2026-07-26",
+      "reason": "not_on_binance"
+    },
+    "EUL": {
+      "checkedAt": "2026-07-26",
+      "reason": "not_on_binance"
+    },
+    "FUN": {
+      "checkedAt": "2026-07-26",
+      "reason": "not_on_binance"
+    },
+    "ASTSX": {
+      "checkedAt": "2026-07-26",
+      "reason": "not_on_binance"
+    },
+    "ASSET": {
+      "checkedAt": "2026-07-26",
       "reason": "not_on_binance"
     }
   }
