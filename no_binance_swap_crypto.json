@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-26T17:01:37.946Z",
+  "updatedAt": "2026-07-26T17:01:58.914Z",
   "tickers": {
     "LEO": {
       "checkedAt": "2026-07-19",
@@ -911,7 +911,7 @@
       "reason": "not_on_binance"
     },
     "NEX": {
-      "checkedAt": "2026-05-24",
+      "checkedAt": "2026-07-26",
       "reason": "not_on_binance"
     },
     "BOBO": {
@@ -947,7 +947,7 @@
       "reason": "not_on_binance"
     },
     "CARDS": {
-      "checkedAt": "2026-05-24",
+      "checkedAt": "2026-07-26",
       "reason": "not_on_binance"
     },
     "B": {
