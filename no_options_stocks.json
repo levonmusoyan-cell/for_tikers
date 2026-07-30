@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-16T12:43:53.540Z",
+  "updatedAt": "2026-07-30T15:00:30.372Z",
   "tickers": {
     "CABO": {
       "checkedAt": "2026-03-19",
@@ -97,6 +97,10 @@
     "KRUS": {
       "checkedAt": "2026-07-16",
       "exchange": "NASDAQ"
+    },
+    "ANET": {
+      "checkedAt": "2026-07-30",
+      "exchange": "NYSE"
     }
   }
 }
