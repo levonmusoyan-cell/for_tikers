@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-26T17:01:58.914Z",
+  "updatedAt": "2026-08-02T16:04:48.128Z",
   "tickers": {
     "LEO": {
       "checkedAt": "2026-07-19",
@@ -542,10 +542,6 @@
       "checkedAt": "2026-05-10",
       "reason": "not_on_binance"
     },
-    "IRYS": {
-      "checkedAt": "2026-05-10",
-      "reason": "not_on_binance"
-    },
     "TROLL": {
       "checkedAt": "2026-05-10",
       "reason": "not_on_binance"
@@ -571,7 +567,7 @@
       "reason": "not_on_binance"
     },
     "CTC": {
-      "checkedAt": "2026-05-10",
+      "checkedAt": "2026-08-02",
       "reason": "not_on_binance"
     },
     "BABYDOGE": {
@@ -607,7 +603,7 @@
       "reason": "not_on_binance"
     },
     "CCD": {
-      "checkedAt": "2026-05-10",
+      "checkedAt": "2026-08-02",
       "reason": "not_on_binance"
     },
     "LISUSD": {
@@ -647,7 +643,7 @@
       "reason": "not_on_binance"
     },
     "AZTEC": {
-      "checkedAt": "2026-05-10",
+      "checkedAt": "2026-08-02",
       "reason": "not_on_binance"
     },
     "DUSK": {
@@ -731,7 +727,7 @@
       "reason": "not_on_binance"
     },
     "XUSD": {
-      "checkedAt": "2026-05-10",
+      "checkedAt": "2026-08-02",
       "reason": "not_on_binance"
     },
     "USDSUI": {
@@ -783,7 +779,7 @@
       "reason": "not_on_binance"
     },
     "REQ": {
-      "checkedAt": "2026-05-10",
+      "checkedAt": "2026-08-02",
       "reason": "not_on_binance"
     },
     "SN44": {
@@ -799,7 +795,7 @@
       "reason": "not_on_binance"
     },
     "BDCA": {
-      "checkedAt": "2026-05-10",
+      "checkedAt": "2026-08-02",
       "reason": "not_on_binance"
     },
     "GEOD": {
@@ -807,7 +803,7 @@
       "reason": "not_on_binance"
     },
     "VVS": {
-      "checkedAt": "2026-05-10",
+      "checkedAt": "2026-08-02",
       "reason": "not_on_binance"
     },
     "HSK": {
@@ -859,7 +855,7 @@
       "reason": "not_on_binance"
     },
     "MUON": {
-      "checkedAt": "2026-05-17",
+      "checkedAt": "2026-08-02",
       "reason": "not_on_binance"
     },
     "ZIG": {
@@ -895,7 +891,7 @@
       "reason": "not_on_binance"
     },
     "XYO": {
-      "checkedAt": "2026-05-17",
+      "checkedAt": "2026-08-02",
       "reason": "not_on_binance"
     },
     "KAIO": {
@@ -923,11 +919,11 @@
       "reason": "not_on_binance"
     },
     "ARRR": {
-      "checkedAt": "2026-05-24",
+      "checkedAt": "2026-08-02",
       "reason": "not_on_binance"
     },
     "PEAQ": {
-      "checkedAt": "2026-05-24",
+      "checkedAt": "2026-08-02",
       "reason": "not_on_binance"
     },
     "SERV": {
@@ -1424,6 +1420,58 @@
     },
     "ASSET": {
       "checkedAt": "2026-07-26",
+      "reason": "not_on_binance"
+    },
+    "CAP": {
+      "checkedAt": "2026-08-02",
+      "reason": "not_on_binance"
+    },
+    "XAUM": {
+      "checkedAt": "2026-08-02",
+      "reason": "not_on_binance"
+    },
+    "ELG": {
+      "checkedAt": "2026-08-02",
+      "reason": "not_on_binance"
+    },
+    "SRX": {
+      "checkedAt": "2026-08-02",
+      "reason": "not_on_binance"
+    },
+    "SPYON": {
+      "checkedAt": "2026-08-02",
+      "reason": "not_on_binance"
+    },
+    "SENTIS": {
+      "checkedAt": "2026-08-02",
+      "reason": "not_on_binance"
+    },
+    "ZCHF": {
+      "checkedAt": "2026-08-02",
+      "reason": "not_on_binance"
+    },
+    "MARSCOIN": {
+      "checkedAt": "2026-08-02",
+      "reason": "not_on_binance"
+    },
+    "IBITON": {
+      "checkedAt": "2026-08-02",
+      "reason": "not_on_binance"
+    },
+    "GLIDR": {
+      "checkedAt": "2026-08-02",
+      "reason": "not_on_binance"
+    },
+    "SMART": {
+      "checkedAt": "2026-08-02",
+      "reason": "not_on_binance"
+    },
+    "YUSD": {
+      "checkedAt": "2026-08-02",
+      "reason": "not_on_binance"
+    },
+    "KGEN": {
+      "checkedAt": "2026-08-02",
       "reason": "not_on_binance"
     }
   }
