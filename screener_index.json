@@ -21,7 +21,14 @@
       "screenerName": "РОСТ более 250%",
       "savedAt": "2026-05-01T20:59:58.281Z",
       "fileName": "screener_infocoronatrade_TxSIp3XC.json"
+    },
+    {
+      "username": "infocoronatrade",
+      "screenerId": "86KoQMCw",
+      "screenerName": "Тест_07.08.26",
+      "savedAt": "2026-08-07T11:52:46.076Z",
+      "fileName": "screener_infocoronatrade_86KoQMCw.json"
     }
   ],
-  "updatedAt": "2026-07-25T19:52:37.576Z"
+  "updatedAt": "2026-08-07T11:52:46.076Z"
 }
