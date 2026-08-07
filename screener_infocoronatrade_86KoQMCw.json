@@ -3,7 +3,7 @@
   "username": "infocoronatrade",
   "screenerId": "86KoQMCw",
   "screenerName": "Тест_07.08.26",
-  "savedAt": "2026-08-07T11:52:44.776Z",
+  "savedAt": "2026-08-07T13:22:15.005Z",
   "filters": {
     "columns": [
       "ticker-view",
@@ -32,14 +32,9 @@
     ],
     "filter": [
       {
-        "left": "Volatility.M",
+        "left": "beta_1_year",
         "operation": "greater",
-        "right": 6
-      },
-      {
-        "left": "close",
-        "operation": "greater",
-        "right": 20
+        "right": 1
       },
       {
         "left": "market_cap_basic",
@@ -47,14 +42,19 @@
         "right": 300000000
       },
       {
-        "left": "beta_1_year",
-        "operation": "greater",
-        "right": 1
-      },
-      {
         "left": "average_volume_30d_calc",
         "operation": "greater",
         "right": 2000000
+      },
+      {
+        "left": "close",
+        "operation": "greater",
+        "right": 20
+      },
+      {
+        "left": "Volatility.M",
+        "operation": "greater",
+        "right": 6
       }
     ],
     "ignore_unknown_fields": false,
@@ -178,5 +178,5 @@
       ]
     }
   },
-  "updatedAt": "2026-08-07T11:52:44.776Z"
+  "updatedAt": "2026-08-07T13:22:15.005Z"
 }
