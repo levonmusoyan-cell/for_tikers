@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-07-30T18:02:06.923Z",
+  "updated_at": "2026-08-07T11:44:54.751Z",
   "source": "twparser_lines_settings_overlay",
   "settings": {
     "crypto": {
@@ -121,7 +121,7 @@
         }
       },
       "importSources": {
-        "finvizUrl": "https://finviz.com/screener?v=111&f=cap_smallover%2Cfa_roe_pos%2Cfa_salesyoyttm_pos%2Cgeo_usa%2Csh_avgvol_o1000%2Csh_opt_option%2Csh_price_o20%2Csh_relvol_o0.75%2Cta_beta_o1%2Cta_volatility_mo5%2Ctad_0_close%3A%3Aclose%3Ad&ft=4&o=relativevolume&preset=s151696389",
+        "finvizUrl": "https://finviz.com/screener?v=111&f=cap_smallover%2Cgeo_usa%2Csh_avgvol_o2000%2Csh_opt_option%2Csh_price_o20%2Cta_beta_o1%2Cta_volatility_mo5%2Ctad_0_close%3A%3Aclose%3Ad&ft=4&o=-volatility4w&preset=s151696389",
         "screenerId": "AgAAQVCZ",
         "screenerUsername": "infocoronatrade",
         "stockLimit": 1000,
