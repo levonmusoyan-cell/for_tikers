@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-07T12:07:44.100Z",
+  "updatedAt": "2026-08-07T14:45:47.292Z",
   "tickers": {
     "CABO": {
       "checkedAt": "2026-03-19",
@@ -97,6 +97,10 @@
     "ANET": {
       "checkedAt": "2026-07-30",
       "exchange": "NYSE"
+    },
+    "KXIAY": {
+      "checkedAt": "2026-08-07",
+      "exchange": "OTC"
     }
   }
 }
