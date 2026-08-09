@@ -28,7 +28,14 @@
       "screenerName": "Тест_07.08.26",
       "savedAt": "2026-08-07T13:22:16.176Z",
       "fileName": "screener_infocoronatrade_86KoQMCw.json"
+    },
+    {
+      "username": "infocoronatrade",
+      "screenerId": "mRvRjQpw",
+      "screenerName": "Волатильные",
+      "savedAt": "2026-08-09T11:53:02.284Z",
+      "fileName": "screener_infocoronatrade_mRvRjQpw.json"
     }
   ],
-  "updatedAt": "2026-08-07T13:22:16.176Z"
+  "updatedAt": "2026-08-09T11:53:02.284Z"
 }
