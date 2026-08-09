@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-02T16:04:48.128Z",
+  "updatedAt": "2026-08-09T16:03:09.774Z",
   "tickers": {
     "LEO": {
       "checkedAt": "2026-07-19",
@@ -95,7 +95,7 @@
       "reason": "not_on_binance"
     },
     "SKYAI": {
-      "checkedAt": "2026-05-06",
+      "checkedAt": "2026-08-09",
       "reason": "not_on_binance"
     },
     "STABLE": {
@@ -543,7 +543,7 @@
       "reason": "not_on_binance"
     },
     "TROLL": {
-      "checkedAt": "2026-05-10",
+      "checkedAt": "2026-08-09",
       "reason": "not_on_binance"
     },
     "GRASS": {
@@ -563,7 +563,7 @@
       "reason": "not_on_binance"
     },
     "RON": {
-      "checkedAt": "2026-05-10",
+      "checkedAt": "2026-08-09",
       "reason": "not_on_binance"
     },
     "CTC": {
@@ -683,7 +683,7 @@
       "reason": "not_on_binance"
     },
     "MOG": {
-      "checkedAt": "2026-05-10",
+      "checkedAt": "2026-08-09",
       "reason": "not_on_binance"
     },
     "ARC": {
@@ -871,7 +871,7 @@
       "reason": "not_on_binance"
     },
     "NVDAON": {
-      "checkedAt": "2026-05-17",
+      "checkedAt": "2026-08-09",
       "reason": "not_on_binance"
     },
     "BURN": {
@@ -1472,6 +1472,38 @@
     },
     "KGEN": {
       "checkedAt": "2026-08-02",
+      "reason": "not_on_binance"
+    },
+    "KMNO": {
+      "checkedAt": "2026-08-09",
+      "reason": "not_on_binance"
+    },
+    "TUT": {
+      "checkedAt": "2026-08-09",
+      "reason": "not_on_binance"
+    },
+    "BOME": {
+      "checkedAt": "2026-08-09",
+      "reason": "not_on_binance"
+    },
+    "ON": {
+      "checkedAt": "2026-08-09",
+      "reason": "not_on_binance"
+    },
+    "MMT": {
+      "checkedAt": "2026-08-09",
+      "reason": "not_on_binance"
+    },
+    "PEOPLE": {
+      "checkedAt": "2026-08-09",
+      "reason": "not_on_binance"
+    },
+    "XAN": {
+      "checkedAt": "2026-08-09",
+      "reason": "not_on_binance"
+    },
+    "WKC": {
+      "checkedAt": "2026-08-09",
       "reason": "not_on_binance"
     }
   }
