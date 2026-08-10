@@ -3,7 +3,7 @@
   "username": "infocoronatrade",
   "screenerId": "AgAAQVCZ",
   "screenerName": "ПАДЕНИЕ 40% И БОЛЕЕ",
-  "savedAt": "2026-07-25T19:52:36.562Z",
+  "savedAt": "2026-08-10T14:17:42.139Z",
   "filters": {
     "columns": [
       "ticker-view",
@@ -35,9 +35,9 @@
         "right": 300000000
       },
       {
-        "left": "is_blacklisted",
-        "operation": "equal",
-        "right": false
+        "left": "average_volume_30d_calc",
+        "operation": "greater",
+        "right": 2000000
       },
       {
         "left": "debt_to_equity_fq",
@@ -45,17 +45,9 @@
         "right": 2
       },
       {
-        "left": "Volatility.M",
-        "operation": "in_range",
-        "right": [
-          5,
-          20
-        ]
-      },
-      {
-        "left": "average_volume_30d_calc",
-        "operation": "greater",
-        "right": 2000000
+        "left": "is_blacklisted",
+        "operation": "equal",
+        "right": false
       },
       {
         "left": "close",
@@ -68,6 +60,14 @@
         "right": [
           1.1,
           2
+        ]
+      },
+      {
+        "left": "Volatility.M",
+        "operation": "in_range",
+        "right": [
+          5,
+          20
         ]
       },
       {
@@ -286,5 +286,5 @@
       ]
     }
   },
-  "updatedAt": "2026-07-25T19:52:36.562Z"
+  "updatedAt": "2026-08-10T14:17:42.139Z"
 }
