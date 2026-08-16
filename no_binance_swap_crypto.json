@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-16T17:02:35.512Z",
+  "updatedAt": "2026-08-16T17:03:28.055Z",
   "tickers": {
     "LEO": {
       "checkedAt": "2026-07-19",
@@ -946,10 +946,6 @@
       "checkedAt": "2026-07-26",
       "reason": "not_on_binance"
     },
-    "B": {
-      "checkedAt": "2026-06-07",
-      "reason": "not_on_binance"
-    },
     "TBLLX": {
       "checkedAt": "2026-06-07",
       "reason": "not_on_binance"
@@ -963,10 +959,6 @@
       "reason": "not_on_binance"
     },
     "INTCX": {
-      "checkedAt": "2026-06-07",
-      "reason": "not_on_binance"
-    },
-    "BTW": {
       "checkedAt": "2026-06-07",
       "reason": "not_on_binance"
     },
@@ -991,7 +983,7 @@
       "reason": "not_on_binance"
     },
     "MSTRX": {
-      "checkedAt": "2026-06-07",
+      "checkedAt": "2026-08-16",
       "reason": "not_on_binance"
     },
     "PLTRX": {
@@ -1011,7 +1003,7 @@
       "reason": "not_on_binance"
     },
     "BP": {
-      "checkedAt": "2026-06-07",
+      "checkedAt": "2026-08-16",
       "reason": "not_on_binance"
     },
     "IEMGX": {
@@ -1023,10 +1015,6 @@
       "reason": "not_on_binance"
     },
     "IJRX": {
-      "checkedAt": "2026-06-07",
-      "reason": "not_on_binance"
-    },
-    "ALLO": {
       "checkedAt": "2026-06-07",
       "reason": "not_on_binance"
     },
@@ -1047,11 +1035,11 @@
       "reason": "not_on_binance"
     },
     "LBT": {
-      "checkedAt": "2026-06-07",
+      "checkedAt": "2026-08-16",
       "reason": "not_on_binance"
     },
     "OMI": {
-      "checkedAt": "2026-06-07",
+      "checkedAt": "2026-08-16",
       "reason": "not_on_binance"
     },
     "SCHFX": {
@@ -1071,7 +1059,7 @@
       "reason": "not_on_binance"
     },
     "DIEM": {
-      "checkedAt": "2026-06-07",
+      "checkedAt": "2026-08-16",
       "reason": "not_on_binance"
     },
     "AMZNX": {
@@ -1087,7 +1075,7 @@
       "reason": "not_on_binance"
     },
     "PURR": {
-      "checkedAt": "2026-06-07",
+      "checkedAt": "2026-08-16",
       "reason": "not_on_binance"
     },
     "HONX": {
@@ -1095,7 +1083,7 @@
       "reason": "not_on_binance"
     },
     "UP": {
-      "checkedAt": "2026-06-07",
+      "checkedAt": "2026-08-16",
       "reason": "not_on_binance"
     },
     "ABBVX": {
@@ -1111,7 +1099,7 @@
       "reason": "not_on_binance"
     },
     "GCOIN": {
-      "checkedAt": "2026-06-14",
+      "checkedAt": "2026-08-16",
       "reason": "not_on_binance"
     },
     "CRWDX": {
@@ -1506,31 +1494,11 @@
       "checkedAt": "2026-08-09",
       "reason": "not_on_binance"
     },
-    "LIGHT": {
-      "checkedAt": "2026-08-16",
-      "reason": "not_on_binance"
-    },
-    "SQD": {
-      "checkedAt": "2026-08-16",
-      "reason": "not_on_binance"
-    },
     "DOS": {
       "checkedAt": "2026-08-16",
       "reason": "not_on_binance"
     },
     "CSPR": {
-      "checkedAt": "2026-08-16",
-      "reason": "not_on_binance"
-    },
-    "ZEREBRO": {
-      "checkedAt": "2026-08-16",
-      "reason": "not_on_binance"
-    },
-    "AT": {
-      "checkedAt": "2026-08-16",
-      "reason": "not_on_binance"
-    },
-    "PROM": {
       "checkedAt": "2026-08-16",
       "reason": "not_on_binance"
     },
