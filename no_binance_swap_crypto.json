@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-09T16:03:09.774Z",
+  "updatedAt": "2026-08-16T17:02:35.512Z",
   "tickers": {
     "LEO": {
       "checkedAt": "2026-07-19",
@@ -775,7 +775,7 @@
       "reason": "not_on_binance"
     },
     "EURI": {
-      "checkedAt": "2026-05-10",
+      "checkedAt": "2026-08-16",
       "reason": "not_on_binance"
     },
     "REQ": {
@@ -1504,6 +1504,38 @@
     },
     "WKC": {
       "checkedAt": "2026-08-09",
+      "reason": "not_on_binance"
+    },
+    "LIGHT": {
+      "checkedAt": "2026-08-16",
+      "reason": "not_on_binance"
+    },
+    "SQD": {
+      "checkedAt": "2026-08-16",
+      "reason": "not_on_binance"
+    },
+    "DOS": {
+      "checkedAt": "2026-08-16",
+      "reason": "not_on_binance"
+    },
+    "CSPR": {
+      "checkedAt": "2026-08-16",
+      "reason": "not_on_binance"
+    },
+    "ZEREBRO": {
+      "checkedAt": "2026-08-16",
+      "reason": "not_on_binance"
+    },
+    "AT": {
+      "checkedAt": "2026-08-16",
+      "reason": "not_on_binance"
+    },
+    "PROM": {
+      "checkedAt": "2026-08-16",
+      "reason": "not_on_binance"
+    },
+    "FB": {
+      "checkedAt": "2026-08-16",
       "reason": "not_on_binance"
     }
   }
