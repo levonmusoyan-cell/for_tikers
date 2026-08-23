@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-16T17:03:28.055Z",
+  "updatedAt": "2026-08-23T17:02:22.781Z",
   "tickers": {
     "LEO": {
       "checkedAt": "2026-07-19",
@@ -371,7 +371,7 @@
       "reason": "not_on_binance"
     },
     "SUT": {
-      "checkedAt": "2026-05-06",
+      "checkedAt": "2026-08-23",
       "reason": "not_on_binance"
     },
     "BSB": {
@@ -738,10 +738,6 @@
       "checkedAt": "2026-07-19",
       "reason": "not_on_binance"
     },
-    "XVG": {
-      "checkedAt": "2026-05-10",
-      "reason": "not_on_binance"
-    },
     "FIDD": {
       "checkedAt": "2026-07-19",
       "reason": "not_on_binance"
@@ -763,7 +759,7 @@
       "reason": "not_on_binance"
     },
     "NOCK": {
-      "checkedAt": "2026-05-10",
+      "checkedAt": "2026-08-23",
       "reason": "not_on_binance"
     },
     "REZ": {
@@ -935,7 +931,7 @@
       "reason": "not_on_binance"
     },
     "KNTQ": {
-      "checkedAt": "2026-05-24",
+      "checkedAt": "2026-08-23",
       "reason": "not_on_binance"
     },
     "ALEO": {
@@ -1504,6 +1500,14 @@
     },
     "FB": {
       "checkedAt": "2026-08-16",
+      "reason": "not_on_binance"
+    },
+    "BIM": {
+      "checkedAt": "2026-08-23",
+      "reason": "not_on_binance"
+    },
+    "VAM": {
+      "checkedAt": "2026-08-23",
       "reason": "not_on_binance"
     }
   }
