@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-23T17:02:22.781Z",
+  "updatedAt": "2026-08-23T17:02:35.868Z",
   "tickers": {
     "LEO": {
       "checkedAt": "2026-07-19",
@@ -736,6 +736,10 @@
     },
     "LUR": {
       "checkedAt": "2026-07-19",
+      "reason": "not_on_binance"
+    },
+    "XVG": {
+      "checkedAt": "2026-08-23",
       "reason": "not_on_binance"
     },
     "FIDD": {
@@ -1502,11 +1506,35 @@
       "checkedAt": "2026-08-16",
       "reason": "not_on_binance"
     },
+    "AAVE": {
+      "checkedAt": "2026-08-23",
+      "reason": "not_on_binance"
+    },
+    "ETHFI": {
+      "checkedAt": "2026-08-23",
+      "reason": "not_on_binance"
+    },
+    "STX": {
+      "checkedAt": "2026-08-23",
+      "reason": "not_on_binance"
+    },
+    "MELANIA": {
+      "checkedAt": "2026-08-23",
+      "reason": "not_on_binance"
+    },
     "BIM": {
       "checkedAt": "2026-08-23",
       "reason": "not_on_binance"
     },
+    "ESP": {
+      "checkedAt": "2026-08-23",
+      "reason": "not_on_binance"
+    },
     "VAM": {
+      "checkedAt": "2026-08-23",
+      "reason": "not_on_binance"
+    },
+    "NOT": {
       "checkedAt": "2026-08-23",
       "reason": "not_on_binance"
     }
