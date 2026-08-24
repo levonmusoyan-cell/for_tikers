@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-07T14:45:47.292Z",
+  "updatedAt": "2026-08-24T18:55:16.335Z",
   "tickers": {
     "CABO": {
       "checkedAt": "2026-03-19",
@@ -90,10 +90,6 @@
       "checkedAt": "2026-07-15",
       "exchange": "AMEX"
     },
-    "KRUS": {
-      "checkedAt": "2026-07-16",
-      "exchange": "NASDAQ"
-    },
     "ANET": {
       "checkedAt": "2026-07-30",
       "exchange": "NYSE"
@@ -101,6 +97,14 @@
     "KXIAY": {
       "checkedAt": "2026-08-07",
       "exchange": "OTC"
+    },
+    "KRUS": {
+      "checkedAt": "2026-08-24",
+      "exchange": "NASDAQ"
+    },
+    "LEN.B": {
+      "checkedAt": "2026-08-24",
+      "exchange": "NYSE"
     }
   }
 }
