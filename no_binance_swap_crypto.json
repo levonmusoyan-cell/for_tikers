@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-23T17:02:35.868Z",
+  "updatedAt": "2026-08-30T17:03:08.376Z",
   "tickers": {
     "LEO": {
       "checkedAt": "2026-07-19",
@@ -195,7 +195,7 @@
       "reason": "not_on_binance"
     },
     "HNT": {
-      "checkedAt": "2026-05-06",
+      "checkedAt": "2026-08-30",
       "reason": "not_on_binance"
     },
     "VSN": {
@@ -1536,6 +1536,62 @@
     },
     "NOT": {
       "checkedAt": "2026-08-23",
+      "reason": "not_on_binance"
+    },
+    "SPX": {
+      "checkedAt": "2026-08-30",
+      "reason": "not_on_binance"
+    },
+    "FF": {
+      "checkedAt": "2026-08-30",
+      "reason": "not_on_binance"
+    },
+    "FLUID": {
+      "checkedAt": "2026-08-30",
+      "reason": "not_on_binance"
+    },
+    "SKR": {
+      "checkedAt": "2026-08-30",
+      "reason": "not_on_binance"
+    },
+    "PONS": {
+      "checkedAt": "2026-08-30",
+      "reason": "not_on_binance"
+    },
+    "牛来": {
+      "checkedAt": "2026-08-30",
+      "reason": "not_on_binance"
+    },
+    "龙虾": {
+      "checkedAt": "2026-08-30",
+      "reason": "not_on_binance"
+    },
+    "SUPER": {
+      "checkedAt": "2026-08-30",
+      "reason": "not_on_binance"
+    },
+    "ONT": {
+      "checkedAt": "2026-08-30",
+      "reason": "not_on_binance"
+    },
+    "ONG": {
+      "checkedAt": "2026-08-30",
+      "reason": "not_on_binance"
+    },
+    "BTR": {
+      "checkedAt": "2026-08-30",
+      "reason": "not_on_binance"
+    },
+    "MSTRB": {
+      "checkedAt": "2026-08-30",
+      "reason": "not_on_binance"
+    },
+    "CATE": {
+      "checkedAt": "2026-08-30",
+      "reason": "not_on_binance"
+    },
+    "COLLECT": {
+      "checkedAt": "2026-08-30",
       "reason": "not_on_binance"
     }
   }
