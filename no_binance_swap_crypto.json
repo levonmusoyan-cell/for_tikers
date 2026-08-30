@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-30T17:03:08.376Z",
+  "updatedAt": "2026-08-30T17:04:26.765Z",
   "tickers": {
     "LEO": {
       "checkedAt": "2026-07-19",
@@ -1566,31 +1566,11 @@
       "checkedAt": "2026-08-30",
       "reason": "not_on_binance"
     },
-    "SUPER": {
-      "checkedAt": "2026-08-30",
-      "reason": "not_on_binance"
-    },
-    "ONT": {
-      "checkedAt": "2026-08-30",
-      "reason": "not_on_binance"
-    },
-    "ONG": {
-      "checkedAt": "2026-08-30",
-      "reason": "not_on_binance"
-    },
-    "BTR": {
-      "checkedAt": "2026-08-30",
-      "reason": "not_on_binance"
-    },
     "MSTRB": {
       "checkedAt": "2026-08-30",
       "reason": "not_on_binance"
     },
     "CATE": {
-      "checkedAt": "2026-08-30",
-      "reason": "not_on_binance"
-    },
-    "COLLECT": {
       "checkedAt": "2026-08-30",
       "reason": "not_on_binance"
     }
