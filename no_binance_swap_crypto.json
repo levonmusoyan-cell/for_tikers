@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-30T17:04:26.765Z",
+  "updatedAt": "2026-09-06T17:03:17.747Z",
   "tickers": {
     "LEO": {
       "checkedAt": "2026-07-19",
@@ -1572,6 +1572,70 @@
     },
     "CATE": {
       "checkedAt": "2026-08-30",
+      "reason": "not_on_binance"
+    },
+    "UNI": {
+      "checkedAt": "2026-09-06",
+      "reason": "not_on_binance"
+    },
+    "ARB": {
+      "checkedAt": "2026-09-06",
+      "reason": "not_on_binance"
+    },
+    "JUP": {
+      "checkedAt": "2026-09-06",
+      "reason": "not_on_binance"
+    },
+    "DASH": {
+      "checkedAt": "2026-09-06",
+      "reason": "not_on_binance"
+    },
+    "CAKE": {
+      "checkedAt": "2026-09-06",
+      "reason": "not_on_binance"
+    },
+    "TWT": {
+      "checkedAt": "2026-09-06",
+      "reason": "not_on_binance"
+    },
+    "AI": {
+      "checkedAt": "2026-09-06",
+      "reason": "not_on_binance"
+    },
+    "DGAI": {
+      "checkedAt": "2026-09-06",
+      "reason": "not_on_binance"
+    },
+    "GMX": {
+      "checkedAt": "2026-09-06",
+      "reason": "not_on_binance"
+    },
+    "BULLA": {
+      "checkedAt": "2026-09-06",
+      "reason": "not_on_binance"
+    },
+    "SUSHI": {
+      "checkedAt": "2026-09-06",
+      "reason": "not_on_binance"
+    },
+    "哈基米": {
+      "checkedAt": "2026-09-06",
+      "reason": "not_on_binance"
+    },
+    "BASECAT": {
+      "checkedAt": "2026-09-06",
+      "reason": "not_on_binance"
+    },
+    "COTI": {
+      "checkedAt": "2026-09-06",
+      "reason": "not_on_binance"
+    },
+    "T": {
+      "checkedAt": "2026-09-06",
+      "reason": "not_on_binance"
+    },
+    "EDU": {
+      "checkedAt": "2026-09-06",
       "reason": "not_on_binance"
     }
   }
