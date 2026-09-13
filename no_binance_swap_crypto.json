@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-06T17:06:41.352Z",
+  "updatedAt": "2026-09-13T17:02:44.786Z",
   "tickers": {
     "LEO": {
       "checkedAt": "2026-07-19",
@@ -819,7 +819,7 @@
       "reason": "not_on_binance"
     },
     "SC": {
-      "checkedAt": "2026-05-10",
+      "checkedAt": "2026-09-13",
       "reason": "not_on_binance"
     },
     "PCI": {
@@ -1636,6 +1636,58 @@
     },
     "EDU": {
       "checkedAt": "2026-09-06",
+      "reason": "not_on_binance"
+    },
+    "INJ": {
+      "checkedAt": "2026-09-13",
+      "reason": "not_on_binance"
+    },
+    "LSK": {
+      "checkedAt": "2026-09-13",
+      "reason": "not_on_binance"
+    },
+    "THETA": {
+      "checkedAt": "2026-09-13",
+      "reason": "not_on_binance"
+    },
+    "MINA": {
+      "checkedAt": "2026-09-13",
+      "reason": "not_on_binance"
+    },
+    "VTHO": {
+      "checkedAt": "2026-09-13",
+      "reason": "not_on_binance"
+    },
+    "STONK": {
+      "checkedAt": "2026-09-13",
+      "reason": "not_on_binance"
+    },
+    "ZCAT": {
+      "checkedAt": "2026-09-13",
+      "reason": "not_on_binance"
+    },
+    "LAPTOP": {
+      "checkedAt": "2026-09-13",
+      "reason": "not_on_binance"
+    },
+    "PM": {
+      "checkedAt": "2026-09-13",
+      "reason": "not_on_binance"
+    },
+    "DEBIT": {
+      "checkedAt": "2026-09-13",
+      "reason": "not_on_binance"
+    },
+    "AIAT": {
+      "checkedAt": "2026-09-13",
+      "reason": "not_on_binance"
+    },
+    "QQQB": {
+      "checkedAt": "2026-09-13",
+      "reason": "not_on_binance"
+    },
+    "ACU": {
+      "checkedAt": "2026-09-13",
       "reason": "not_on_binance"
     }
   }
