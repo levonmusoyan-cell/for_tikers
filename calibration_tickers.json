@@ -1,19 +1,20 @@
 {
   "tickers": [
-    "AVGO",
-    "CRDO",
-    "CRWV",
-    "DKS",
-    "TSLA",
     "BETA",
     "SWKS",
     "TNGX",
     "MRNA",
     "IOT",
     "CRWD",
+    "AVGO",
     "CRCL",
+    "CRDO",
+    "CRWV",
+    "DKS",
+    "LEN",
     "META",
     "SYY",
+    "TSLA",
     "BMNR",
     "LITE",
     "TCOM",
@@ -36,7 +37,6 @@
     "OKLO",
     "CCI",
     "EFX",
-    "WYNN",
     "ORCL",
     "IBM",
     "ISRG",
@@ -80,6 +80,7 @@
     "CAVA",
     "LASR",
     "WING",
+    "WYNN",
     "BROS",
     "JKHY",
     "PYPL",
@@ -183,6 +184,6 @@
     "INTU"
   ],
   "source": "tv_screener",
-  "total": 181,
-  "updated_at": "2026-09-16T14:37:37.536Z"
+  "total": 182,
+  "updated_at": "2026-09-16T15:14:23.470Z"
 }
