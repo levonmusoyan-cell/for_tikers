@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-13T17:05:12.393Z",
+  "updatedAt": "2026-09-20T17:03:40.042Z",
   "tickers": {
     "LEO": {
       "checkedAt": "2026-07-19",
@@ -1688,6 +1688,30 @@
     },
     "ACU": {
       "checkedAt": "2026-09-13",
+      "reason": "not_on_binance"
+    },
+    "KSM": {
+      "checkedAt": "2026-09-20",
+      "reason": "not_on_binance"
+    },
+    "RED": {
+      "checkedAt": "2026-09-20",
+      "reason": "not_on_binance"
+    },
+    "G": {
+      "checkedAt": "2026-09-20",
+      "reason": "not_on_binance"
+    },
+    "ONE": {
+      "checkedAt": "2026-09-20",
+      "reason": "not_on_binance"
+    },
+    "ATOS": {
+      "checkedAt": "2026-09-20",
+      "reason": "not_on_binance"
+    },
+    "BONER": {
+      "checkedAt": "2026-09-20",
       "reason": "not_on_binance"
     }
   }
