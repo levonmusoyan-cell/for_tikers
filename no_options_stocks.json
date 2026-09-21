@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-24T18:55:16.335Z",
+  "updatedAt": "2026-09-21T15:08:10.365Z",
   "tickers": {
     "CABO": {
       "checkedAt": "2026-03-19",
@@ -13,10 +13,6 @@
     "BBT": {
       "checkedAt": "2026-04-03",
       "exchange": "NYSE"
-    },
-    "PSIX": {
-      "checkedAt": "2026-04-07",
-      "exchange": "NASDAQ"
     },
     "RHLD": {
       "checkedAt": "2026-04-07",
@@ -104,6 +100,14 @@
     },
     "LEN.B": {
       "checkedAt": "2026-08-24",
+      "exchange": "NYSE"
+    },
+    "WINA": {
+      "checkedAt": "2026-09-21",
+      "exchange": "NASDAQ"
+    },
+    "VRTS": {
+      "checkedAt": "2026-09-21",
       "exchange": "NYSE"
     }
   }
