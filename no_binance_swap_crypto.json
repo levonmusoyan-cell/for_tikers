@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-27T16:08:32.990Z",
+  "updatedAt": "2026-09-27T17:10:47.498Z",
   "tickers": {
     "LEO": {
       "checkedAt": "2026-07-19",
@@ -1799,6 +1799,10 @@
       "reason": "not_on_binance"
     },
     "ARK": {
+      "checkedAt": "2026-09-27",
+      "reason": "not_on_binance"
+    },
+    "ETN": {
       "checkedAt": "2026-09-27",
       "reason": "not_on_binance"
     }
