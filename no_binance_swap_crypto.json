@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-20T17:03:40.042Z",
+  "updatedAt": "2026-09-27T16:08:32.990Z",
   "tickers": {
     "LEO": {
       "checkedAt": "2026-07-19",
@@ -591,7 +591,7 @@
       "reason": "not_on_binance"
     },
     "AMP": {
-      "checkedAt": "2026-05-10",
+      "checkedAt": "2026-09-27",
       "reason": "not_on_binance"
     },
     "TRIA": {
@@ -667,7 +667,7 @@
       "reason": "not_on_binance"
     },
     "ALCH": {
-      "checkedAt": "2026-05-10",
+      "checkedAt": "2026-09-27",
       "reason": "not_on_binance"
     },
     "SPYX": {
@@ -1712,6 +1712,94 @@
     },
     "BONER": {
       "checkedAt": "2026-09-20",
+      "reason": "not_on_binance"
+    },
+    "ENA": {
+      "checkedAt": "2026-09-27",
+      "reason": "not_on_binance"
+    },
+    "ONDO": {
+      "checkedAt": "2026-09-27",
+      "reason": "not_on_binance"
+    },
+    "KAS": {
+      "checkedAt": "2026-09-27",
+      "reason": "not_on_binance"
+    },
+    "VET": {
+      "checkedAt": "2026-09-27",
+      "reason": "not_on_binance"
+    },
+    "PENGU": {
+      "checkedAt": "2026-09-27",
+      "reason": "not_on_binance"
+    },
+    "FET": {
+      "checkedAt": "2026-09-27",
+      "reason": "not_on_binance"
+    },
+    "BSV": {
+      "checkedAt": "2026-09-27",
+      "reason": "not_on_binance"
+    },
+    "WIF": {
+      "checkedAt": "2026-09-27",
+      "reason": "not_on_binance"
+    },
+    "RUNE": {
+      "checkedAt": "2026-09-27",
+      "reason": "not_on_binance"
+    },
+    "COMP": {
+      "checkedAt": "2026-09-27",
+      "reason": "not_on_binance"
+    },
+    "2Z": {
+      "checkedAt": "2026-09-27",
+      "reason": "not_on_binance"
+    },
+    "SOON": {
+      "checkedAt": "2026-09-27",
+      "reason": "not_on_binance"
+    },
+    "DEEP": {
+      "checkedAt": "2026-09-27",
+      "reason": "not_on_binance"
+    },
+    "ADI": {
+      "checkedAt": "2026-09-27",
+      "reason": "not_on_binance"
+    },
+    "SPK": {
+      "checkedAt": "2026-09-27",
+      "reason": "not_on_binance"
+    },
+    "SOMI": {
+      "checkedAt": "2026-09-27",
+      "reason": "not_on_binance"
+    },
+    "PHA": {
+      "checkedAt": "2026-09-27",
+      "reason": "not_on_binance"
+    },
+    "MUBARAK": {
+      "checkedAt": "2026-09-27",
+      "reason": "not_on_binance"
+    },
+    "NIL": {
+      "checkedAt": "2026-09-27",
+      "reason": "not_on_binance"
+    },
+    "AURORA": {
+      "checkedAt": "2026-09-27",
+      "reason": "not_on_binance"
+    },
+    "NES": {
+      "checkedAt": "2026-09-27",
+      "reason": "not_on_binance"
+    },
+    "ARK": {
+      "checkedAt": "2026-09-27",
       "reason": "not_on_binance"
     }
   }
