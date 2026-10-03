@@ -11,6 +11,22 @@
     "SWKS",
     "TNGX",
     "TXG",
+    "DASH",
+    "LGN",
+    "FOUR",
+    "FND",
+    "IMNM",
+    "FTAI",
+    "SMG",
+    "VRT",
+    "CENX",
+    "CSTM",
+    "JEF",
+    "Z",
+    "EXTR",
+    "ARES",
+    "BX",
+    "SPOT",
     "BMNR",
     "LITE",
     "AA",
@@ -200,6 +216,6 @@
     "ZG"
   ],
   "source": "tv_screener",
-  "total": 198,
-  "updated_at": "2026-10-03T14:37:28.134Z"
+  "total": 214,
+  "updated_at": "2026-10-03T15:05:09.060Z"
 }
