@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-27T17:10:47.498Z",
+  "updatedAt": "2026-10-18T16:06:31.726Z",
   "tickers": {
     "LEO": {
       "checkedAt": "2026-07-19",
@@ -558,10 +558,6 @@
       "checkedAt": "2026-07-19",
       "reason": "not_on_binance"
     },
-    "ICNT": {
-      "checkedAt": "2026-05-10",
-      "reason": "not_on_binance"
-    },
     "RON": {
       "checkedAt": "2026-08-09",
       "reason": "not_on_binance"
@@ -644,10 +640,6 @@
     },
     "AZTEC": {
       "checkedAt": "2026-08-02",
-      "reason": "not_on_binance"
-    },
-    "DUSK": {
-      "checkedAt": "2026-05-10",
       "reason": "not_on_binance"
     },
     "SN51": {
@@ -939,7 +931,7 @@
       "reason": "not_on_binance"
     },
     "ALEO": {
-      "checkedAt": "2026-05-24",
+      "checkedAt": "2026-10-18",
       "reason": "not_on_binance"
     },
     "CARDS": {
@@ -955,7 +947,7 @@
       "reason": "not_on_binance"
     },
     "QQQX": {
-      "checkedAt": "2026-06-07",
+      "checkedAt": "2026-10-18",
       "reason": "not_on_binance"
     },
     "INTCX": {
@@ -1804,6 +1796,70 @@
     },
     "ETN": {
       "checkedAt": "2026-09-27",
+      "reason": "not_on_binance"
+    },
+    "RWUSD": {
+      "checkedAt": "2026-10-18",
+      "reason": "not_on_binance"
+    },
+    "OUSD": {
+      "checkedAt": "2026-10-18",
+      "reason": "not_on_binance"
+    },
+    "CET": {
+      "checkedAt": "2026-10-18",
+      "reason": "not_on_binance"
+    },
+    "ANSEMCAT": {
+      "checkedAt": "2026-10-18",
+      "reason": "not_on_binance"
+    },
+    "STRCON": {
+      "checkedAt": "2026-10-18",
+      "reason": "not_on_binance"
+    },
+    "CT": {
+      "checkedAt": "2026-10-18",
+      "reason": "not_on_binance"
+    },
+    "UNP": {
+      "checkedAt": "2026-10-18",
+      "reason": "not_on_binance"
+    },
+    "ORE": {
+      "checkedAt": "2026-10-18",
+      "reason": "not_on_binance"
+    },
+    "WIN": {
+      "checkedAt": "2026-10-18",
+      "reason": "not_on_binance"
+    },
+    "VEREM": {
+      "checkedAt": "2026-10-18",
+      "reason": "not_on_binance"
+    },
+    "SNEK": {
+      "checkedAt": "2026-10-18",
+      "reason": "not_on_binance"
+    },
+    "LCX": {
+      "checkedAt": "2026-10-18",
+      "reason": "not_on_binance"
+    },
+    "SPCXX": {
+      "checkedAt": "2026-10-18",
+      "reason": "not_on_binance"
+    },
+    "INTCB": {
+      "checkedAt": "2026-10-18",
+      "reason": "not_on_binance"
+    },
+    "POD": {
+      "checkedAt": "2026-10-18",
+      "reason": "not_on_binance"
+    },
+    "SHARE": {
+      "checkedAt": "2026-10-18",
       "reason": "not_on_binance"
     }
   }
